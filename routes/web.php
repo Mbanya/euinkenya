@@ -13,6 +13,15 @@ use Illuminate\Support\Facades\Route;
 |
 */
 
+
 Route::get('/', function () {
     return view('layout.app');
 })->name('home');
+
+
+Route::post('register', function (Request $request){
+    $firstname = $request->firstname;
+    $lastname = $request->lastname;
+    $email = $request->email;
+    $phone_number = $request->phone_number;
+});

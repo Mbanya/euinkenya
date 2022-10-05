@@ -56,7 +56,7 @@
             <div class="container theme-container">
                 <div class="row">
                     <div class="col-md-3 col-sm-3 logo">
-                        <h2 class="logo-title  wow fadeInUp" data-wow-delay="0.8s" > <a href="#">  EU-KENYA <b>  event</b> <span class="fa  fa-calendar"></span> </a> </h2>
+                        <h2 class="logo-title  wow fadeInUp" data-wow-delay="0.2s" > <a href="#">  EU-KENYA <b>  event</b> <span class="fa  fa-calendar"></span> </a> </h2>
                         <div class="navbar-header">
                             <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#primary-navigation" >
                                 <span class="sr-only">Toggle navigation</span>
@@ -67,7 +67,7 @@
                         </div>
                     </div>
                     <div class="col-md-9 col-sm-9 navigation">
-                        <nav class="wow fadeInUp" data-wow-delay="0.8s">
+                        <nav class="wow fadeInUp" data-wow-delay="0.2s">
                             <div class="collapse navbar-collapse no-padding" id="primary-navigation">
                                 <ul class="nav navbar-nav pull-right primary-navbar">
                                     <li><a href="{{route('home')}}">Home</a></li>
@@ -92,14 +92,14 @@
             <span class="mask-overlay"></span>
             <div class="banner-details relative-div white-color text-center">
                 <div class="container theme-container">
-                    <h2 class="secondery-font wow fadeInDown" data-wow-delay="0.8s"> EU in Kenya Business Forum </h2>
+                    <h2 class="secondery-font wow fadeInDown" data-wow-delay="0.2s"> EU in Kenya Business Forum </h2>
                     <div class="title-wrap">
                         <h3 class="section-title  wow flipInX" data-wow-delay="1.8s"><span> TBC</span> </h3>
                     </div>
                     <div class="countdown-wrapper space-bottom-45">
                         <div id="dealCountdown2" class="defaultCountdown clearfix"></div>
                     </div>
-                    <a class="theme-btn-big btn wow zoomIn goto-register" data-wow-delay="0.8s" href="#register">Register</a>
+                    <a class="theme-btn-big btn wow zoomIn goto-register" data-wow-delay="0.2s" href="#register">Register</a>
 
                 </div>
             </div>
@@ -110,24 +110,24 @@
     <!-- Latest Event Start -->
     <section id="latest-event" class="space-bottom-50">
         <div class="container theme-container latest-container">
-            <div class="col-md-9 col-sm-11 col-md-offset-1 wow fadeInUp animated" data-wow-delay="0.8s">
+            <div class="col-md-9 col-sm-11 col-md-offset-1 wow fadeInUp animated" data-wow-delay="0.2s">
                 <h2 class="vertical-text theme-color-bg white-color wow zoomIn" data-wow-delay="0.6s"> Latest Event </h2>
                 <div class="latest-event">
 
                     <div class="col-sm-6 feature-box">
-                        <div class="feature-icon wow zoomIn" data-wow-delay="0.8s">
+                        <div class="feature-icon wow zoomIn" data-wow-delay="0.2s">
                             <i class="fa  fa-map-marker  theme-color"></i>
                         </div>
-                        <div class="feature-info secondery-font wow fadeInRight" data-wow-delay="0.8s">
+                        <div class="feature-info secondery-font wow fadeInRight" data-wow-delay="0.2s">
                             <a href="#" class="theme-color"> <b> Location </b> </a>
                             <h5>Westlands Nairobi Kenya</h5>
                         </div>
                     </div>
                     <div class="col-sm-6 feature-box">
-                        <div class="feature-icon wow zoomIn" data-wow-delay="0.8s">
+                        <div class="feature-icon wow zoomIn" data-wow-delay="0.2s">
                             <i class="fa fa-microphone theme-color"></i>
                         </div>
-                        <div class="feature-info secondery-font wow fadeInRight" data-wow-delay="0.8s">
+                        <div class="feature-info secondery-font wow fadeInRight" data-wow-delay="0.2s">
                             <a href="#" class="theme-color"> <b> Speakers </b> </a>
                             <h5>24 Professional Speakers</h5>
                         </div>
@@ -142,14 +142,14 @@
     <section id="jevent" class="space-top-45">
         <div class="container theme-container">
             <div class="title-wrap space-50">
-                <h2 class="section-heading wow fadeInDown"  data-wow-delay="0.8s"> Welcome To <span class="theme-color"> EU in Kenya Business Forum </span> </h2>
-                <p class="title-devider wow fadeInUp"  data-wow-delay="0.8s"> <span class="line-1 wow fadeInUp"  data-wow-delay="2.0s">  </span> <span class="line-2 wow fadeInUp"  data-wow-delay="1.8s">  </span> <span class="line-3 wow fadeInUp"  data-wow-delay="1.6s">  </span></p>
+                <h2 class="section-heading wow fadeInDown"  data-wow-delay="0.2s"> Welcome To <span class="theme-color"> EU in Kenya Business Forum </span> </h2>
+                <p class="title-devider wow fadeInUp"  data-wow-delay="0.2s"> <span class="line-1 wow fadeInUp"  data-wow-delay="2.0s">  </span> <span class="line-2 wow fadeInUp"  data-wow-delay="1.8s">  </span> <span class="line-3 wow fadeInUp"  data-wow-delay="1.6s">  </span></p>
             </div>
             <div class="row">
                 <div class="col-md-6 col-sm-6 space-bottom-50">
                     <div class="jevent-wrap">
                         <div class="jevent-content">
-                            <a href="#" class="jevent-title-1 wow fadeInDown"  data-wow-delay="0.8s"> About <span class="theme-color"> us </span> </a>
+                            <a href="#" class="jevent-title-1 wow fadeInDown"  data-wow-delay="0.2s"> About <span class="theme-color"> us </span> </a>
                             <p class="wow fadeInDown"  data-wow-delay="1.0s">
                                 The first-ever EU-Kenya Business Forum will kick off a series of public-private dialogues around Kenya´s reforms to support private sector investment and business links.
 
@@ -161,7 +161,7 @@
                 <div class="col-md-6 col-sm-6 space-bottom-50">
                     <div class="jevent-wrap">
                         <div class="jevent-content">
-                            <a href="#" class="jevent-title-1 wow fadeInDown"  data-wow-delay="0.8s"> Business talking  <span class="theme-color"> to business </span> </a>
+                            <a href="#" class="jevent-title-1 wow fadeInDown"  data-wow-delay="0.2s"> Business talking  <span class="theme-color"> to business </span> </a>
                             <p class="wow fadeInDown"  data-wow-delay="1.0s">
                                 Organized by the EU in partnership with Kenyan authorities and the private sector, areas with the highest investment & business potential for Europeans will
                                 be the focus of the forum. It is taking place in the framework of EU-Africa public-private sector dialogues supported by the EU-Africa Business Forum (EABF), which is jointly
@@ -174,7 +174,7 @@
                 <div class="col-md-6 col-sm-6 space-bottom-50">
                     <div class="jevent-wrap">
                         <div class="jevent-content">
-                            <a href="#" class="jevent-title-1 wow fadeInDown"  data-wow-delay="0.8s"> Investment  <span class="theme-color"> facilitation </span> </a>
+                            <a href="#" class="jevent-title-1 wow fadeInDown"  data-wow-delay="0.2s"> Investment  <span class="theme-color"> facilitation </span> </a>
                             <p class="wow fadeInDown"  data-wow-delay="1.0s">
                                 The Kenya-EU Sustainable Investment Facilitation Agreement (SIFA) is about to be concluded.
                                 The agreement will be enhancing the transparency of investment measures, simplify procedures,
@@ -188,7 +188,7 @@
                 <div class="col-md-6 col-sm-6 space-bottom-50">
                     <div class="jevent-wrap">
                         <div class="jevent-content">
-                            <a href="#" class="jevent-title-1 wow fadeInDown"  data-wow-delay="0.8s"> Access to   <span class="theme-color"> finance </span> </a>
+                            <a href="#" class="jevent-title-1 wow fadeInDown"  data-wow-delay="0.2s"> Access to   <span class="theme-color"> finance </span> </a>
                             <p class="wow fadeInDown"  data-wow-delay="1.0s">
                                 Any investment has a risk component. To help you mitigate this risk, the European External Investment Plan and its financial pillar, the
                                 European Fund for Sustainable Development plus (EFSD+), have a series of tools that can be used to scale up private sector investment.
@@ -201,7 +201,7 @@
                 <div class="col-md-6 col-sm-6 space-bottom-50">
                     <div class="jevent-wrap">
                         <div class="jevent-content">
-                            <a href="#" class="jevent-title-1 wow fadeInDown"  data-wow-delay="0.8s"> How can you benefit from this  <span class="theme-color"> event? </span> </a>
+                            <a href="#" class="jevent-title-1 wow fadeInDown"  data-wow-delay="0.2s"> How can you benefit from this  <span class="theme-color"> event? </span> </a>
 
                             <ul class="wow fadeInDown" data-wow-delay="1.0s">
                                 <li>
@@ -233,10 +233,10 @@
         <div class="light-bg space-30">
             <div class="container theme-container">
                 <div class="title-wrap space-bottom-30">
-                    <h2 data-wow-delay="0.8s" class="section-heading wow fadeInDown" style="visibility: visible; animation-delay: 0.8s; animation-name: fadeInDown;"> Our   <span class="theme-color"> Sponsors </span> </h2>
-                    <p data-wow-delay="0.8s" class="title-devider wow fadeInUp" style="visibility: visible; animation-delay: 0.8s; animation-name: fadeInUp;"> <span data-wow-delay="2.0s" class="line-1 wow fadeInUp" style="visibility: visible; animation-delay: 2s; animation-name: fadeInUp;">  </span> <span data-wow-delay="1.8s" class="line-2 wow fadeInUp" style="visibility: visible; animation-delay: 1.8s; animation-name: fadeInUp;">  </span> <span data-wow-delay="1.6s" class="line-3 wow fadeInUp" style="visibility: visible; animation-delay: 1.6s; animation-name: fadeInUp;">  </span></p>
+                    <h2 data-wow-delay="0.2s" class="section-heading wow fadeInDown" style="visibility: visible; animation-delay: 0.2s; animation-name: fadeInDown;"> Our   <span class="theme-color"> Sponsors </span> </h2>
+                    <p data-wow-delay="0.2s" class="title-devider wow fadeInUp" style="visibility: visible; animation-delay: 0.2s; animation-name: fadeInUp;"> <span data-wow-delay="2.0s" class="line-1 wow fadeInUp" style="visibility: visible; animation-delay: 2s; animation-name: fadeInUp;">  </span> <span data-wow-delay="1.8s" class="line-2 wow fadeInUp" style="visibility: visible; animation-delay: 1.8s; animation-name: fadeInUp;">  </span> <span data-wow-delay="1.6s" class="line-3 wow fadeInUp" style="visibility: visible; animation-delay: 1.6s; animation-name: fadeInUp;">  </span></p>
                 </div>
-                <div class="brands-slider light-bg wow fadeInDown"  data-wow-delay="0.8s">
+                <div class="brands-slider light-bg wow fadeInDown"  data-wow-delay="0.2s">
                     <div id="brands-carousel-slider" class="owl-carousel">
                         <div class="item"> <a href="#"> <img src="assets/img/partners/brand-1.png" alt=" "> </a> </div>
                         <div class="item"> <a href="#"> <img src="assets/img/partners/brand-2.png" alt=" "> </a> </div>
@@ -257,57 +257,57 @@
     <section id="event-schedule" class="space-45">
         <div class="container theme-container">
             <div class="title-wrap space-bottom-50">
-                <h2 class="section-heading wow fadeInDown"  data-wow-delay="0.8s">EVENT  <span class="theme-color"> PROGRAMME </span> </h2>
-                <p class="title-devider wow fadeInUp"  data-wow-delay="0.8s"> <span class="line-1 wow fadeInUp"  data-wow-delay="2.0s">  </span> <span class="line-2 wow fadeInUp"  data-wow-delay="1.8s">  </span> <span class="line-3 wow fadeInUp"  data-wow-delay="1.6s">  </span></p>
+                <h2 class="section-heading wow fadeInDown"  data-wow-delay="0.2s">EVENT  <span class="theme-color"> PROGRAMME </span> </h2>
+                <p class="title-devider wow fadeInUp"  data-wow-delay="0.2s"> <span class="line-1 wow fadeInUp"  data-wow-delay="2.0s">  </span> <span class="line-2 wow fadeInUp"  data-wow-delay="1.8s">  </span> <span class="line-3 wow fadeInUp"  data-wow-delay="1.6s">  </span></p>
             </div>
             <div class="event-schedule-wrap col-md-10">
                 <ul class="nav-tabs secondery-font schedule-tabs" role="tablist" style="list-style: none;">
                     <li class="active wow fadeInDown"  data-wow-delay="0.6s" role="presentation">
                         <a aria-expanded="false" href="#8am" role="tab" data-toggle="tab" >
-                            <span class="number"><b> 01 </b></span>
-                            <span class="day"><b> Friday </b> 8:00</span>
+                            <span class="number"><b> 8:00 </b></span>
+                            <span class="day"><b>  </b> Session</span>
                         </a>
                     </li>
 
-                    <li role="presentation" class="wow fadeInDown"  data-wow-delay="0.9s">
+                    <li role="presentation" class="wow fadeInDown"  data-wow-delay="0.3s">
                         <a aria-expanded="false" href="#9am" role="tab" data-toggle="tab">
-                            <span class="number"><b> 02 </b></span>
-                            <span class="day"><b> Friday </b> 9:00</span>
+                            <span class="number"><b> 9:00 </b></span>
+                            <span class="day"><b>  </b> Session</span>
                         </a>
                     </li>
 
-                    <li role="presentation" class="wow fadeInDown"  data-wow-delay="0.9s">
+                    <li role="presentation" class="wow fadeInDown"  data-wow-delay="0.3s">
                         <a aria-expanded="false" href="#12pm" role="tab" data-toggle="tab">
-                            <span class="number"><b> 03 </b></span>
-                            <span class="day"><b> Friday </b> 12:00</span>
+                            <span class="number"><b> 12:00 </b></span>
+                            <span class="day"><b>  </b> Session</span>
                         </a>
                     </li>
 
-                    <li role="presentation" class="wow fadeInDown"  data-wow-delay="0.9s">
+                    <li role="presentation" class="wow fadeInDown"  data-wow-delay="0.3s">
                         <a aria-expanded="false" href="#1pm" role="tab" data-toggle="tab">
-                            <span class="number"><b> 04 </b></span>
-                            <span class="day"><b> Friday </b> 13:00</span>
+                            <span class="number"><b> 13:00 </b></span>
+                            <span class="day"><b>  </b> Session</span>
                         </a>
                     </li>
 
-                    <li role="presentation" class="wow fadeInDown"  data-wow-delay="0.9s">
+                    <li role="presentation" class="wow fadeInDown"  data-wow-delay="0.3s">
                         <a aria-expanded="false" href="#2pm" role="tab" data-toggle="tab">
-                            <span class="number"><b> 05 </b></span>
-                            <span class="day"><b> Friday </b> 14:00</span>
+                            <span class="number"><b> 14:00 </b></span>
+                            <span class="day"><b>  </b> Session</span>
                         </a>
                     </li>
 
-                    <li role="presentation" class="wow fadeInDown"  data-wow-delay="0.9s">
+                    <li role="presentation" class="wow fadeInDown"  data-wow-delay="0.3s">
                         <a aria-expanded="false" href="#3pm" role="tab" data-toggle="tab">
-                            <span class="number"><b> 06 </b></span>
-                            <span class="day"><b> Friday </b> 15:00</span>
+                            <span class="number"><b> 15:00 </b></span>
+                            <span class="day"><b>  </b> Session</span>
                         </a>
                     </li>
 
-                    <li role="presentation" class="wow fadeInDown"  data-wow-delay="0.9s">
+                    <li role="presentation" class="wow fadeInDown"  data-wow-delay="0.3s">
                         <a aria-expanded="false" href="#5pm" role="tab" data-toggle="tab">
-                            <span class="number"><b> 07 </b></span>
-                            <span class="day"><b> Friday </b> 17:00</span>
+                            <span class="number"><b> 17:00 </b></span>
+                            <span class="day"><b>  </b> Session</span>
                         </a>
                     </li>
 
@@ -315,7 +315,7 @@
                 <div class="tab-content">
                     <div role="tabpanel" class="tab-pane fade active in" id="8am">
                         <ul class="schedule-list no-margin">
-                            <li class="wow fadeInUp"  data-wow-delay="0.8s">
+                            <li class="wow fadeInUp"  data-wow-delay="0.2s">
                                 <a href="#" class="jevent-title-1 toggle"> KENYA: A NEW DESTINATION FOR  <span class="theme-color"> EU INVESTMENTS </span> </a>
                                 <div class="schedule-details">
                                     <div class="schedule-box">
@@ -329,91 +329,135 @@
                     </div>
                     <div role="tabpanel" class="tab-pane fade" id="9am">
                         <ul class="schedule-list no-margin">
-                            <li class="wow fadeInUp"  data-wow-delay="0.8s">
+                            <li class="wow fadeInUp"  data-wow-delay="0.2s">
                                 <a href="#" class="jevent-title-1 toggle"> Business Opportunities in <span class="theme-color"> AGRICULTURE & AGROPROCESSING </span> </a>
                                 <div class="schedule-details">
-                                    <div class="schedule-handler">
-                                        <img src="assets/img/avatars/avtar-1.png" alt="">
-                                    </div>
                                     <div class="schedule-box">
-                                        <h6 class="secondery-font"> <span class="black-color">8:00 - 8:45, </span> <span> Hall A </span> </h6>
-                                        <p>Justo vitae risus viverra vulputate. Mauris vel ipsum dignissim diam viverra condimentum. Donec sodales, diam eget mattis condimentum, quam neque tempus purus, dictum viverra risus nisl quis metus.</p>
-                                        <p class="secondery-font"><span class="black-color">Speakers:</span> <span class="theme-color"> Jessica Spring</span> </p>
+                                        <h6 class="secondery-font"> <span class="black-color">9:00 - 12:00, </span> <span> Virtual </span> </h6>
+                                        <p>
+                                            Business opportunities in Agriculture & Agro-Processing
+                                            Room Brussels/Stockholm
+                                            Moderated by the Netherlands-African Business Council (NABC)
+                                            Opportunities & challenges by Inalca (Italy), Castel (France), Gauff (Germany), Fazenda Girassol (Spain), and Signature Agri-Investments (Netherlands)
+                                            Reforms in the sector by the Minister of Agriculture of Angola
+                                            Q&As
+                                        </p>
+                                        <p class="secondery-font"><span class="black-color">Speakers:</span> <span class="theme-color"> John Doe</span> </p>
                                     </div>
                                 </div>
                             </li>
 
 
-                            <li class="wow fadeInUp"  data-wow-delay="0.8s">
+                            <li class="wow fadeInUp"  data-wow-delay="0.2s">
                                 <a href="#" class="jevent-title-1 toggle"> Business Opportunities in <span class="theme-color"> RENEWABLE ENERGY </span> </a>
                                 <div class="schedule-details">
-                                    <div class="schedule-handler">
-                                        <img src="assets/img/avatars/avtar-1.png" alt="">
-                                    </div>
+
                                     <div class="schedule-box">
-                                        <h6 class="secondery-font"> <span class="black-color">8:00 - 8:45, </span> <span> Hall A </span> </h6>
-                                        <p>Justo vitae risus viverra vulputate. Mauris vel ipsum dignissim diam viverra condimentum. Donec sodales, diam eget mattis condimentum, quam neque tempus purus, dictum viverra risus nisl quis metus.</p>
-                                        <p class="secondery-font"><span class="black-color">Speakers:</span> <span class="theme-color"> Jessica Spring</span> </p>
+                                        <h6 class="secondery-font"> <span class="black-color">9:00 - 12:00, </span> <span> Virtual </span> </h6>
+                                        <p>
+                                            Business opportunities in Renewable Energy
+                                            Room Oslo/Copenhagen
+                                            Moderated by the Delegation of German Industries and Commerce (AHK), and Afrika Verein
+                                            Opportunities & challenges by Siemens Energy (Germany), Total Energies (France), Exergia (Portugal), TNO (Netherlands)
+                                            Energy and Water Regulator Institute IRSEA (Angola)
+                                            Roadmap by the Minister of Energy and Water (Angola)
+                                            Q&As
+                                        </p>
+                                        <p class="secondery-font"><span class="black-color">Speakers:</span> <span class="theme-color"> John Doe</span> </p>
                                     </div>
                                 </div>
                             </li>
 
-                            <li class="wow fadeInUp"  data-wow-delay="0.8s">
+                            <li class="wow fadeInUp"  data-wow-delay="0.2s">
                                 <a href="#" class="jevent-title-1 toggle"> Business Opportunities in <span class="theme-color"> DIGITISATION </span> </a>
                                 <div class="schedule-details">
-                                    <div class="schedule-handler">
-                                        <img src="assets/img/avatars/avtar-1.png" alt="">
-                                    </div>
+
                                     <div class="schedule-box">
-                                        <h6 class="secondery-font"> <span class="black-color">8:00 - 8:45, </span> <span> Hall A </span> </h6>
-                                        <p>Justo vitae risus viverra vulputate. Mauris vel ipsum dignissim diam viverra condimentum. Donec sodales, diam eget mattis condimentum, quam neque tempus purus, dictum viverra risus nisl quis metus.</p>
-                                        <p class="secondery-font"><span class="black-color">Speakers:</span> <span class="theme-color"> Jessica Spring</span> </p>
+                                        <h6 class="secondery-font"> <span class="black-color">9:00 - 12:00, </span> <span> Virtual </span> </h6>
+                                        <p>
+                                            Business opportunities in Digitalisation
+
+                                            Room Royal
+
+                                            Moderated by the Chamber of Commerce Portugal – Angola (CCIPA)
+
+                                            Opportunities & challenges by Heetch (France), SAP (Germany), and Satec (Spain)
+
+                                            Facilities to invest in innovation in the sector by the Angolan National Bank (BNA)
+
+                                            Q&As
+                                        </p>
+                                        <p class="secondery-font"><span class="black-color">Speakers:</span> <span class="theme-color"> John Doe</span> </p>
                                     </div>
                                 </div>
                             </li>
 
-                            <li class="wow fadeInUp"  data-wow-delay="0.8s">
+                            <li class="wow fadeInUp"  data-wow-delay="0.2s">
                                 <a href="#" class="jevent-title-1 toggle"> Business Opportunities in <span class="theme-color"> MANUFACTURING </span> </a>
                                 <div class="schedule-details">
-                                    <div class="schedule-handler">
-                                        <img src="assets/img/avatars/avtar-1.png" alt="">
-                                    </div>
+
                                     <div class="schedule-box">
-                                        <h6 class="secondery-font"> <span class="black-color">8:00 - 8:45, </span> <span> Hall A </span> </h6>
-                                        <p>Justo vitae risus viverra vulputate. Mauris vel ipsum dignissim diam viverra condimentum. Donec sodales, diam eget mattis condimentum, quam neque tempus purus, dictum viverra risus nisl quis metus.</p>
-                                        <p class="secondery-font"><span class="black-color">Speakers:</span> <span class="theme-color"> Jessica Spring</span> </p>
+                                        <h6 class="secondery-font"> <span class="black-color">9:00 - 12:00, </span> <span> Virtual </span> </h6>
+                                        <p>
+                                            Business opportunities in Manufacturing
+
+                                            Room Oslo/Copenhagen
+
+                                            Moderated by Business France and the Movement of the Enterprises of France
+
+                                            Opportunities & challenges by ALPLA (Austria), AWDC (Belgium), Arslanian (Belgium), and Saint Gobain (France)
+
+                                            Reforms in the sector by the Minister of Industry and Trade of Angola
+
+                                            Q&As
+                                        </p>
+                                        <p class="secondery-font"><span class="black-color">Speakers:</span> <span class="theme-color"> John Doe</span> </p>
                                     </div>
                                 </div>
                             </li>
 
-                            <li class="wow fadeInUp"  data-wow-delay="0.8s">
+                            <li class="wow fadeInUp"  data-wow-delay="0.2s">
                                 <a href="#" class="jevent-title-1 toggle"> Business Opportunities in <span class="theme-color"> LOGISTICS </span> </a>
                                 <div class="schedule-details">
-                                    <div class="schedule-handler">
-                                        <img src="assets/img/avatars/avtar-1.png" alt="">
-                                    </div>
+
                                     <div class="schedule-box">
-                                        <h6 class="secondery-font"> <span class="black-color">8:00 - 8:45, </span> <span> Hall A </span> </h6>
-                                        <p>Justo vitae risus viverra vulputate. Mauris vel ipsum dignissim diam viverra condimentum. Donec sodales, diam eget mattis condimentum, quam neque tempus purus, dictum viverra risus nisl quis metus.</p>
-                                        <p class="secondery-font"><span class="black-color">Speakers:</span> <span class="theme-color"> Jessica Spring</span> </p>
+                                        <h6 class="secondery-font"> <span class="black-color">9:00 - 12:00, </span> <span> Virtual </span> </h6>
+                                        <p>
+                                            Business opportunities in Logistics
+
+                                            Room Brussels/Stockholm
+
+                                            Moderated by the European Business Council for Africa (EBCAM)
+
+                                            Opportunities & challenges by Flying Swans (Netherlands), Vecturis (Belgium), and Port of Antwerp (Belgium)
+
+                                            Reforms in the sector by the Ministry of Transportation of Angola
+
+                                            Q&As
+                                        </p>
+                                        <p class="secondery-font"><span class="black-color">Speakers:</span> <span class="theme-color"> John Doe</span> </p>
                                     </div>
                                 </div>
                             </li>
 
-                            <li class="wow fadeInUp"  data-wow-delay="0.8s">
+                            <li class="wow fadeInUp"  data-wow-delay="0.2s">
                                 <a href="#" class="jevent-title-1 toggle"> Business Opportunities in <span class="theme-color"> WATER INFRASTRUCTURE </span> </a>
                                 <div class="schedule-details">
-                                    <div class="schedule-handler">
-                                        <img src="assets/img/avatars/avtar-1.png" alt="">
-                                    </div>
+
                                     <div class="schedule-box">
-                                        <h6 class="secondery-font"> <span class="black-color">10:30 - 8:45, </span> <span> Hall A </span> </h6>
-                                        <p>Justo vitae risus viverra vulputate. Mauris vel ipsum dignissim diam viverra condimentum. Donec sodales, diam eget mattis condimentum, quam neque tempus purus, dictum viverra risus nisl quis metus.</p>
-                                        <p class="secondery-font"><span class="black-color">Speakers:</span> <span class="theme-color"> Jessica Spring</span> </p>
+                                        <h6 class="secondery-font"> <span class="black-color">9:00 - 12:00, </span> <span> Virtual </span> </h6>
+                                        <p>
+                                            Business opportunities in Water Infrastructure
+                                            Room Royal
+                                            Moderated by the Austrian Trade Commission for Southern Africa, and the Council of French Enterprises in Africa (CIAN)
+                                            Opportunities & challenges by John Cockerill Environment (Belgium), Mota-Engil (Portugal), and Suez (France)
+                                            Reforms and PPPs by the Minister of Energy and Water of Angola
+                                            Q&As
+                                        </p>
+                                        <p class="secondery-font"><span class="black-color">Speakers:</span> <span class="theme-color"> John Doe</span> </p>
                                     </div>
                                 </div>
                             </li>
-
 
 
 
@@ -421,81 +465,14 @@
                     </div>
                     <div role="tabpanel" class="tab-pane fade" id="12pm">
                         <ul class="schedule-list no-margin">
-                            <li class="wow fadeInUp"  data-wow-delay="0.8s">
-                                <a href="#" class="jevent-title-1 toggle"> WELCOME TO OUR <span class="theme-color"> COURSE </span> </a>
+                            <li class="wow fadeInUp"  data-wow-delay="0.2s">
+                                <a href="#" class="jevent-title-1 toggle"> EU-KENYA  <span class="theme-color"> PARTNERSHIP </span> </a>
                                 <div class="schedule-details">
-                                    <div class="schedule-handler">
-                                        <img src="assets/img/avatars/avtar-1.png" alt="">
-                                    </div>
+
                                     <div class="schedule-box">
-                                        <h6 class="secondery-font"> <span class="black-color">8:00 - 8:45, </span> <span> Hall A </span> </h6>
+                                        <h6 class="secondery-font"> <span class="black-color">12:00 - 13:00, </span> <span> Virtual </span> </h6>
                                         <p>Justo vitae risus viverra vulputate. Mauris vel ipsum dignissim diam viverra condimentum. Donec sodales, diam eget mattis condimentum, quam neque tempus purus, dictum viverra risus nisl quis metus.</p>
-                                        <p class="secondery-font"><span class="black-color">Speakers:</span> <span class="theme-color"> Jessica Spring</span> </p>
-                                    </div>
-                                </div>
-                            </li>
-                            <li class="wow fadeInUp"  data-wow-delay="0.8s">
-                                <a href="#" class="jevent-title-1 toggle"> learn the principles of <span class="theme-color">  earning </span> </a>
-                                <div class="schedule-details">
-                                    <div class="schedule-handler">
-                                        <img src="assets/img/avatars/avtar-1.png" alt="">
-                                    </div>
-                                    <div class="schedule-box">
-                                        <h6 class="secondery-font"> <span class="black-color">8:00 - 8:45, </span> <span> Hall A </span> </h6>
-                                        <p>Justo vitae risus viverra vulputate. Mauris vel ipsum dignissim diam viverra condimentum. Donec sodales, diam eget mattis condimentum, quam neque tempus purus, dictum viverra risus nisl quis metus.</p>
-                                        <p class="secondery-font"><span class="black-color">Speakers:</span> <span class="theme-color"> Jessica Spring</span> </p>
-                                    </div>
-                                </div>
-                            </li>
-                            <li class="wow fadeInUp"  data-wow-delay="0.8s">
-                                <a href="#" class="jevent-title-1 toggle"> winning  <span class="theme-color">  strategies </span> </a>
-                                <div class="schedule-details">
-                                    <div class="schedule-handler">
-                                        <img src="assets/img/avatars/avtar-1.png" alt="">
-                                    </div>
-                                    <div class="schedule-box">
-                                        <h6 class="secondery-font"> <span class="black-color">8:00 - 8:45, </span> <span> Hall A </span> </h6>
-                                        <p>Justo vitae risus viverra vulputate. Mauris vel ipsum dignissim diam viverra condimentum. Donec sodales, diam eget mattis condimentum, quam neque tempus purus, dictum viverra risus nisl quis metus.</p>
-                                        <p class="secondery-font"><span class="black-color">Speakers:</span> <span class="theme-color"> Jessica Spring</span> </p>
-                                    </div>
-                                </div>
-                            </li>
-                            <li class="wow fadeInUp"  data-wow-delay="0.8s">
-                                <a href="#" class="jevent-title-1 toggle"> earn $10,000 in 2  <span class="theme-color">  months </span> </a>
-                                <div class="schedule-details">
-                                    <div class="schedule-handler">
-                                        <img src="assets/img/avatars/avtar-1.png" alt="">
-                                    </div>
-                                    <div class="schedule-box">
-                                        <h6 class="secondery-font"> <span class="black-color">8:00 - 8:45, </span> <span> Hall A </span> </h6>
-                                        <p>Justo vitae risus viverra vulputate. Mauris vel ipsum dignissim diam viverra condimentum. Donec sodales, diam eget mattis condimentum, quam neque tempus purus, dictum viverra risus nisl quis metus.</p>
-                                        <p class="secondery-font"><span class="black-color">Speakers:</span> <span class="theme-color"> Jessica Spring</span> </p>
-                                    </div>
-                                </div>
-                            </li>
-                            <li class="wow fadeInUp"  data-wow-delay="0.8s">
-                                <a href="#" class="jevent-title-1 toggle"> making a good product  <span class="theme-color">  strategies </span> </a>
-                                <div class="schedule-details">
-                                    <div class="schedule-handler">
-                                        <img src="assets/img/avatars/avtar-1.png" alt="">
-                                    </div>
-                                    <div class="schedule-box">
-                                        <h6 class="secondery-font"> <span class="black-color">8:00 - 8:45, </span> <span> Hall A </span> </h6>
-                                        <p>Justo vitae risus viverra vulputate. Mauris vel ipsum dignissim diam viverra condimentum. Donec sodales, diam eget mattis condimentum, quam neque tempus purus, dictum viverra risus nisl quis metus.</p>
-                                        <p class="secondery-font"><span class="black-color">Speakers:</span> <span class="theme-color"> Jessica Spring</span> </p>
-                                    </div>
-                                </div>
-                            </li>
-                            <li class="wow fadeInUp"  data-wow-delay="0.8s">
-                                <a href="#" class="jevent-title-1 toggle"> learn the principles of <span class="theme-color">  earning </span> </a>
-                                <div class="schedule-details">
-                                    <div class="schedule-handler">
-                                        <img src="assets/img/avatars/avtar-1.png" alt="">
-                                    </div>
-                                    <div class="schedule-box">
-                                        <h6 class="secondery-font"> <span class="black-color">8:00 - 8:45, </span> <span> Hall A </span> </h6>
-                                        <p>Justo vitae risus viverra vulputate. Mauris vel ipsum dignissim diam viverra condimentum. Donec sodales, diam eget mattis condimentum, quam neque tempus purus, dictum viverra risus nisl quis metus.</p>
-                                        <p class="secondery-font"><span class="black-color">Speakers:</span> <span class="theme-color"> Jessica Spring</span> </p>
+                                        <p class="secondery-font"><span class="black-color">Speakers:</span> <span class="theme-color"> John Doe</span> </p>
                                     </div>
                                 </div>
                             </li>
@@ -503,330 +480,73 @@
                     </div>
                     <div role="tabpanel" class="tab-pane fade" id="1pm">
                         <ul class="schedule-list no-margin">
-                            <li class="wow fadeInUp"  data-wow-delay="0.8s">
-                                <a href="#" class="jevent-title-1 toggle"> WELCOME TO OUR <span class="theme-color"> COURSE </span> </a>
+                            <li class="wow fadeInUp"  data-wow-delay="0.2s">
+                                <a href="#" class="jevent-title-1 toggle"> VIRTUAL <span class="theme-color"> LUNCH </span> </a>
                                 <div class="schedule-details">
-                                    <div class="schedule-handler">
-                                        <img src="assets/img/avatars/avtar-1.png" alt="">
-                                    </div>
                                     <div class="schedule-box">
-                                        <h6 class="secondery-font"> <span class="black-color">8:00 - 8:45, </span> <span> Hall A </span> </h6>
+                                        <h6 class="secondery-font"> <span class="black-color">13:00 - 14:00, </span> <span> Virtual </span> </h6>
                                         <p>Justo vitae risus viverra vulputate. Mauris vel ipsum dignissim diam viverra condimentum. Donec sodales, diam eget mattis condimentum, quam neque tempus purus, dictum viverra risus nisl quis metus.</p>
-                                        <p class="secondery-font"><span class="black-color">Speakers:</span> <span class="theme-color"> Jessica Spring</span> </p>
+                                        <p class="secondery-font"><span class="black-color">Speakers:</span> <span class="theme-color"> John Doe</span> </p>
                                     </div>
                                 </div>
                             </li>
-                            <li class="wow fadeInUp"  data-wow-delay="0.8s">
-                                <a href="#" class="jevent-title-1 toggle"> learn the principles of <span class="theme-color">  earning </span> </a>
-                                <div class="schedule-details">
-                                    <div class="schedule-handler">
-                                        <img src="assets/img/avatars/avtar-1.png" alt="">
-                                    </div>
-                                    <div class="schedule-box">
-                                        <h6 class="secondery-font"> <span class="black-color">8:00 - 8:45, </span> <span> Hall A </span> </h6>
-                                        <p>Justo vitae risus viverra vulputate. Mauris vel ipsum dignissim diam viverra condimentum. Donec sodales, diam eget mattis condimentum, quam neque tempus purus, dictum viverra risus nisl quis metus.</p>
-                                        <p class="secondery-font"><span class="black-color">Speakers:</span> <span class="theme-color"> Jessica Spring</span> </p>
-                                    </div>
-                                </div>
-                            </li>
-                            <li class="wow fadeInUp"  data-wow-delay="0.8s">
-                                <a href="#" class="jevent-title-1 toggle"> winning  <span class="theme-color">  strategies </span> </a>
-                                <div class="schedule-details">
-                                    <div class="schedule-handler">
-                                        <img src="assets/img/avatars/avtar-1.png" alt="">
-                                    </div>
-                                    <div class="schedule-box">
-                                        <h6 class="secondery-font"> <span class="black-color">8:00 - 8:45, </span> <span> Hall A </span> </h6>
-                                        <p>Justo vitae risus viverra vulputate. Mauris vel ipsum dignissim diam viverra condimentum. Donec sodales, diam eget mattis condimentum, quam neque tempus purus, dictum viverra risus nisl quis metus.</p>
-                                        <p class="secondery-font"><span class="black-color">Speakers:</span> <span class="theme-color"> Jessica Spring</span> </p>
-                                    </div>
-                                </div>
-                            </li>
-                            <li class="wow fadeInUp"  data-wow-delay="0.8s">
-                                <a href="#" class="jevent-title-1 toggle"> earn $10,000 in 2  <span class="theme-color">  months </span> </a>
-                                <div class="schedule-details">
-                                    <div class="schedule-handler">
-                                        <img src="assets/img/avatars/avtar-1.png" alt="">
-                                    </div>
-                                    <div class="schedule-box">
-                                        <h6 class="secondery-font"> <span class="black-color">8:00 - 8:45, </span> <span> Hall A </span> </h6>
-                                        <p>Justo vitae risus viverra vulputate. Mauris vel ipsum dignissim diam viverra condimentum. Donec sodales, diam eget mattis condimentum, quam neque tempus purus, dictum viverra risus nisl quis metus.</p>
-                                        <p class="secondery-font"><span class="black-color">Speakers:</span> <span class="theme-color"> Jessica Spring</span> </p>
-                                    </div>
-                                </div>
-                            </li>
-                            <li class="wow fadeInUp"  data-wow-delay="0.8s">
-                                <a href="#" class="jevent-title-1 toggle"> making a good product  <span class="theme-color">  strategies </span> </a>
-                                <div class="schedule-details">
-                                    <div class="schedule-handler">
-                                        <img src="assets/img/avatars/avtar-1.png" alt="">
-                                    </div>
-                                    <div class="schedule-box">
-                                        <h6 class="secondery-font"> <span class="black-color">8:00 - 8:45, </span> <span> Hall A </span> </h6>
-                                        <p>Justo vitae risus viverra vulputate. Mauris vel ipsum dignissim diam viverra condimentum. Donec sodales, diam eget mattis condimentum, quam neque tempus purus, dictum viverra risus nisl quis metus.</p>
-                                        <p class="secondery-font"><span class="black-color">Speakers:</span> <span class="theme-color"> Jessica Spring</span> </p>
-                                    </div>
-                                </div>
-                            </li>
-                            <li class="wow fadeInUp"  data-wow-delay="0.8s">
-                                <a href="#" class="jevent-title-1 toggle"> learn the principles of <span class="theme-color">  earning </span> </a>
-                                <div class="schedule-details">
-                                    <div class="schedule-handler">
-                                        <img src="assets/img/avatars/avtar-1.png" alt="">
-                                    </div>
-                                    <div class="schedule-box">
-                                        <h6 class="secondery-font"> <span class="black-color">8:00 - 8:45, </span> <span> Hall A </span> </h6>
-                                        <p>Justo vitae risus viverra vulputate. Mauris vel ipsum dignissim diam viverra condimentum. Donec sodales, diam eget mattis condimentum, quam neque tempus purus, dictum viverra risus nisl quis metus.</p>
-                                        <p class="secondery-font"><span class="black-color">Speakers:</span> <span class="theme-color"> Jessica Spring</span> </p>
-                                    </div>
-                                </div>
-                            </li>
+
                         </ul>
                     </div>
                     <div role="tabpanel" class="tab-pane fade" id="2pm">
                         <ul class="schedule-list no-margin">
-                            <li class="wow fadeInUp"  data-wow-delay="0.8s">
-                                <a href="#" class="jevent-title-1 toggle"> WELCOME TO OUR <span class="theme-color"> COURSE </span> </a>
+                            <li class="wow fadeInUp"  data-wow-delay="0.2s">
+                                <a href="#" class="jevent-title-1 toggle"> POLICY OPTIONS TO SUPPORT EUROPEAN INVESTMENT IN <span class="theme-color"> KENYA </span> </a>
                                 <div class="schedule-details">
-                                    <div class="schedule-handler">
-                                        <img src="assets/img/avatars/avtar-1.png" alt="">
-                                    </div>
                                     <div class="schedule-box">
-                                        <h6 class="secondery-font"> <span class="black-color">8:00 - 8:45, </span> <span> Hall A </span> </h6>
+                                        <h6 class="secondery-font"> <span class="black-color">14:00 - 15:00, </span> <span> Virtual </span> </h6>
                                         <p>Justo vitae risus viverra vulputate. Mauris vel ipsum dignissim diam viverra condimentum. Donec sodales, diam eget mattis condimentum, quam neque tempus purus, dictum viverra risus nisl quis metus.</p>
-                                        <p class="secondery-font"><span class="black-color">Speakers:</span> <span class="theme-color"> Jessica Spring</span> </p>
+                                        <p class="secondery-font"><span class="black-color">Speakers:</span> <span class="theme-color"> John Doe</span> </p>
                                     </div>
                                 </div>
                             </li>
-                            <li class="wow fadeInUp"  data-wow-delay="0.8s">
-                                <a href="#" class="jevent-title-1 toggle"> learn the principles of <span class="theme-color">  earning </span> </a>
-                                <div class="schedule-details">
-                                    <div class="schedule-handler">
-                                        <img src="assets/img/avatars/avtar-1.png" alt="">
-                                    </div>
-                                    <div class="schedule-box">
-                                        <h6 class="secondery-font"> <span class="black-color">8:00 - 8:45, </span> <span> Hall A </span> </h6>
-                                        <p>Justo vitae risus viverra vulputate. Mauris vel ipsum dignissim diam viverra condimentum. Donec sodales, diam eget mattis condimentum, quam neque tempus purus, dictum viverra risus nisl quis metus.</p>
-                                        <p class="secondery-font"><span class="black-color">Speakers:</span> <span class="theme-color"> Jessica Spring</span> </p>
-                                    </div>
-                                </div>
-                            </li>
-                            <li class="wow fadeInUp"  data-wow-delay="0.8s">
-                                <a href="#" class="jevent-title-1 toggle"> winning  <span class="theme-color">  strategies </span> </a>
-                                <div class="schedule-details">
-                                    <div class="schedule-handler">
-                                        <img src="assets/img/avatars/avtar-1.png" alt="">
-                                    </div>
-                                    <div class="schedule-box">
-                                        <h6 class="secondery-font"> <span class="black-color">8:00 - 8:45, </span> <span> Hall A </span> </h6>
-                                        <p>Justo vitae risus viverra vulputate. Mauris vel ipsum dignissim diam viverra condimentum. Donec sodales, diam eget mattis condimentum, quam neque tempus purus, dictum viverra risus nisl quis metus.</p>
-                                        <p class="secondery-font"><span class="black-color">Speakers:</span> <span class="theme-color"> Jessica Spring</span> </p>
-                                    </div>
-                                </div>
-                            </li>
-                            <li class="wow fadeInUp"  data-wow-delay="0.8s">
-                                <a href="#" class="jevent-title-1 toggle"> earn $10,000 in 2  <span class="theme-color">  months </span> </a>
-                                <div class="schedule-details">
-                                    <div class="schedule-handler">
-                                        <img src="assets/img/avatars/avtar-1.png" alt="">
-                                    </div>
-                                    <div class="schedule-box">
-                                        <h6 class="secondery-font"> <span class="black-color">8:00 - 8:45, </span> <span> Hall A </span> </h6>
-                                        <p>Justo vitae risus viverra vulputate. Mauris vel ipsum dignissim diam viverra condimentum. Donec sodales, diam eget mattis condimentum, quam neque tempus purus, dictum viverra risus nisl quis metus.</p>
-                                        <p class="secondery-font"><span class="black-color">Speakers:</span> <span class="theme-color"> Jessica Spring</span> </p>
-                                    </div>
-                                </div>
-                            </li>
-                            <li class="wow fadeInUp"  data-wow-delay="0.8s">
-                                <a href="#" class="jevent-title-1 toggle"> making a good product  <span class="theme-color">  strategies </span> </a>
-                                <div class="schedule-details">
-                                    <div class="schedule-handler">
-                                        <img src="assets/img/avatars/avtar-1.png" alt="">
-                                    </div>
-                                    <div class="schedule-box">
-                                        <h6 class="secondery-font"> <span class="black-color">8:00 - 8:45, </span> <span> Hall A </span> </h6>
-                                        <p>Justo vitae risus viverra vulputate. Mauris vel ipsum dignissim diam viverra condimentum. Donec sodales, diam eget mattis condimentum, quam neque tempus purus, dictum viverra risus nisl quis metus.</p>
-                                        <p class="secondery-font"><span class="black-color">Speakers:</span> <span class="theme-color"> Jessica Spring</span> </p>
-                                    </div>
-                                </div>
-                            </li>
-                            <li class="wow fadeInUp"  data-wow-delay="0.8s">
-                                <a href="#" class="jevent-title-1 toggle"> learn the principles of <span class="theme-color">  earning </span> </a>
-                                <div class="schedule-details">
-                                    <div class="schedule-handler">
-                                        <img src="assets/img/avatars/avtar-1.png" alt="">
-                                    </div>
-                                    <div class="schedule-box">
-                                        <h6 class="secondery-font"> <span class="black-color">8:00 - 8:45, </span> <span> Hall A </span> </h6>
-                                        <p>Justo vitae risus viverra vulputate. Mauris vel ipsum dignissim diam viverra condimentum. Donec sodales, diam eget mattis condimentum, quam neque tempus purus, dictum viverra risus nisl quis metus.</p>
-                                        <p class="secondery-font"><span class="black-color">Speakers:</span> <span class="theme-color"> Jessica Spring</span> </p>
-                                    </div>
-                                </div>
-                            </li>
+
                         </ul>
                     </div>
                     <div role="tabpanel" class="tab-pane fade" id="3pm">
                         <ul class="schedule-list no-margin">
-                            <li class="wow fadeInUp"  data-wow-delay="0.8s">
-                                <a href="#" class="jevent-title-1 toggle"> WELCOME TO OUR <span class="theme-color"> COURSE </span> </a>
+                            <li class="wow fadeInUp"  data-wow-delay="0.2s">
+                                <a href="#" class="jevent-title-1 toggle"> HOW TO MAKE THE MOST OF EU-KENYA <span class="theme-color"> INVESTMENT & TRADE AGREEMENTS </span> </a>
                                 <div class="schedule-details">
-                                    <div class="schedule-handler">
-                                        <img src="assets/img/avatars/avtar-1.png" alt="">
-                                    </div>
+
                                     <div class="schedule-box">
-                                        <h6 class="secondery-font"> <span class="black-color">8:00 - 8:45, </span> <span> Hall A </span> </h6>
+                                        <h6 class="secondery-font"> <span class="black-color">15:00 - 17:00, </span> <span> Virtual </span> </h6>
                                         <p>Justo vitae risus viverra vulputate. Mauris vel ipsum dignissim diam viverra condimentum. Donec sodales, diam eget mattis condimentum, quam neque tempus purus, dictum viverra risus nisl quis metus.</p>
-                                        <p class="secondery-font"><span class="black-color">Speakers:</span> <span class="theme-color"> Jessica Spring</span> </p>
+                                        <p class="secondery-font"><span class="black-color">Speakers:</span> <span class="theme-color"> John Doe</span> </p>
                                     </div>
                                 </div>
                             </li>
-                            <li class="wow fadeInUp"  data-wow-delay="0.8s">
-                                <a href="#" class="jevent-title-1 toggle"> learn the principles of <span class="theme-color">  earning </span> </a>
+                            <li class="wow fadeInUp"  data-wow-delay="0.2s">
+                                <a href="#" class="jevent-title-1 toggle"> BANKING REFORMS & THE EU EXTERNAL INVESTMENT PLAN SUPPORT TO <span class="theme-color"> FINANCE FOR INVESTMENT </span> </a>
                                 <div class="schedule-details">
-                                    <div class="schedule-handler">
-                                        <img src="assets/img/avatars/avtar-1.png" alt="">
-                                    </div>
                                     <div class="schedule-box">
-                                        <h6 class="secondery-font"> <span class="black-color">8:00 - 8:45, </span> <span> Hall A </span> </h6>
+                                        <h6 class="secondery-font"> <span class="black-color">15:00 - 17:00 </span> <span> Virtual </span> </h6>
                                         <p>Justo vitae risus viverra vulputate. Mauris vel ipsum dignissim diam viverra condimentum. Donec sodales, diam eget mattis condimentum, quam neque tempus purus, dictum viverra risus nisl quis metus.</p>
-                                        <p class="secondery-font"><span class="black-color">Speakers:</span> <span class="theme-color"> Jessica Spring</span> </p>
+                                        <p class="secondery-font"><span class="black-color">Speakers:</span> <span class="theme-color"> John Doe</span> </p>
                                     </div>
                                 </div>
                             </li>
-                            <li class="wow fadeInUp"  data-wow-delay="0.8s">
-                                <a href="#" class="jevent-title-1 toggle"> winning  <span class="theme-color">  strategies </span> </a>
-                                <div class="schedule-details">
-                                    <div class="schedule-handler">
-                                        <img src="assets/img/avatars/avtar-1.png" alt="">
-                                    </div>
-                                    <div class="schedule-box">
-                                        <h6 class="secondery-font"> <span class="black-color">8:00 - 8:45, </span> <span> Hall A </span> </h6>
-                                        <p>Justo vitae risus viverra vulputate. Mauris vel ipsum dignissim diam viverra condimentum. Donec sodales, diam eget mattis condimentum, quam neque tempus purus, dictum viverra risus nisl quis metus.</p>
-                                        <p class="secondery-font"><span class="black-color">Speakers:</span> <span class="theme-color"> Jessica Spring</span> </p>
-                                    </div>
-                                </div>
-                            </li>
-                            <li class="wow fadeInUp"  data-wow-delay="0.8s">
-                                <a href="#" class="jevent-title-1 toggle"> earn $10,000 in 2  <span class="theme-color">  months </span> </a>
-                                <div class="schedule-details">
-                                    <div class="schedule-handler">
-                                        <img src="assets/img/avatars/avtar-1.png" alt="">
-                                    </div>
-                                    <div class="schedule-box">
-                                        <h6 class="secondery-font"> <span class="black-color">8:00 - 8:45, </span> <span> Hall A </span> </h6>
-                                        <p>Justo vitae risus viverra vulputate. Mauris vel ipsum dignissim diam viverra condimentum. Donec sodales, diam eget mattis condimentum, quam neque tempus purus, dictum viverra risus nisl quis metus.</p>
-                                        <p class="secondery-font"><span class="black-color">Speakers:</span> <span class="theme-color"> Jessica Spring</span> </p>
-                                    </div>
-                                </div>
-                            </li>
-                            <li class="wow fadeInUp"  data-wow-delay="0.8s">
-                                <a href="#" class="jevent-title-1 toggle"> making a good product  <span class="theme-color">  strategies </span> </a>
-                                <div class="schedule-details">
-                                    <div class="schedule-handler">
-                                        <img src="assets/img/avatars/avtar-1.png" alt="">
-                                    </div>
-                                    <div class="schedule-box">
-                                        <h6 class="secondery-font"> <span class="black-color">8:00 - 8:45, </span> <span> Hall A </span> </h6>
-                                        <p>Justo vitae risus viverra vulputate. Mauris vel ipsum dignissim diam viverra condimentum. Donec sodales, diam eget mattis condimentum, quam neque tempus purus, dictum viverra risus nisl quis metus.</p>
-                                        <p class="secondery-font"><span class="black-color">Speakers:</span> <span class="theme-color"> Jessica Spring</span> </p>
-                                    </div>
-                                </div>
-                            </li>
-                            <li class="wow fadeInUp"  data-wow-delay="0.8s">
-                                <a href="#" class="jevent-title-1 toggle"> learn the principles of <span class="theme-color">  earning </span> </a>
-                                <div class="schedule-details">
-                                    <div class="schedule-handler">
-                                        <img src="assets/img/avatars/avtar-1.png" alt="">
-                                    </div>
-                                    <div class="schedule-box">
-                                        <h6 class="secondery-font"> <span class="black-color">8:00 - 8:45, </span> <span> Hall A </span> </h6>
-                                        <p>Justo vitae risus viverra vulputate. Mauris vel ipsum dignissim diam viverra condimentum. Donec sodales, diam eget mattis condimentum, quam neque tempus purus, dictum viverra risus nisl quis metus.</p>
-                                        <p class="secondery-font"><span class="black-color">Speakers:</span> <span class="theme-color"> Jessica Spring</span> </p>
-                                    </div>
-                                </div>
-                            </li>
+
                         </ul>
                     </div>
                     <div role="tabpanel" class="tab-pane fade" id="5pm">
                         <ul class="schedule-list no-margin">
-                            <li class="wow fadeInUp"  data-wow-delay="0.8s">
-                                <a href="#" class="jevent-title-1 toggle"> WELCOME TO OUR <span class="theme-color"> COURSE </span> </a>
+                            <li class="wow fadeInUp"  data-wow-delay="0.2s">
+                                <a href="#" class="jevent-title-1 toggle"> <span class="theme-color"> CLOSURE </span> </a>
                                 <div class="schedule-details">
-                                    <div class="schedule-handler">
-                                        <img src="assets/img/avatars/avtar-1.png" alt="">
-                                    </div>
                                     <div class="schedule-box">
-                                        <h6 class="secondery-font"> <span class="black-color">8:00 - 8:45, </span> <span> Hall A </span> </h6>
+                                        <h6 class="secondery-font"> <span class="black-color">17:00, </span> <span> Virtual </span> </h6>
                                         <p>Justo vitae risus viverra vulputate. Mauris vel ipsum dignissim diam viverra condimentum. Donec sodales, diam eget mattis condimentum, quam neque tempus purus, dictum viverra risus nisl quis metus.</p>
-                                        <p class="secondery-font"><span class="black-color">Speakers:</span> <span class="theme-color"> Jessica Spring</span> </p>
+                                        <p class="secondery-font"><span class="black-color">Speakers:</span> <span class="theme-color"> John Doe</span> </p>
                                     </div>
                                 </div>
                             </li>
-                            <li class="wow fadeInUp"  data-wow-delay="0.8s">
-                                <a href="#" class="jevent-title-1 toggle"> learn the principles of <span class="theme-color">  earning </span> </a>
-                                <div class="schedule-details">
-                                    <div class="schedule-handler">
-                                        <img src="assets/img/avatars/avtar-1.png" alt="">
-                                    </div>
-                                    <div class="schedule-box">
-                                        <h6 class="secondery-font"> <span class="black-color">8:00 - 8:45, </span> <span> Hall A </span> </h6>
-                                        <p>Justo vitae risus viverra vulputate. Mauris vel ipsum dignissim diam viverra condimentum. Donec sodales, diam eget mattis condimentum, quam neque tempus purus, dictum viverra risus nisl quis metus.</p>
-                                        <p class="secondery-font"><span class="black-color">Speakers:</span> <span class="theme-color"> Jessica Spring</span> </p>
-                                    </div>
-                                </div>
-                            </li>
-                            <li class="wow fadeInUp"  data-wow-delay="0.8s">
-                                <a href="#" class="jevent-title-1 toggle"> winning  <span class="theme-color">  strategies </span> </a>
-                                <div class="schedule-details">
-                                    <div class="schedule-handler">
-                                        <img src="assets/img/avatars/avtar-1.png" alt="">
-                                    </div>
-                                    <div class="schedule-box">
-                                        <h6 class="secondery-font"> <span class="black-color">8:00 - 8:45, </span> <span> Hall A </span> </h6>
-                                        <p>Justo vitae risus viverra vulputate. Mauris vel ipsum dignissim diam viverra condimentum. Donec sodales, diam eget mattis condimentum, quam neque tempus purus, dictum viverra risus nisl quis metus.</p>
-                                        <p class="secondery-font"><span class="black-color">Speakers:</span> <span class="theme-color"> Jessica Spring</span> </p>
-                                    </div>
-                                </div>
-                            </li>
-                            <li class="wow fadeInUp"  data-wow-delay="0.8s">
-                                <a href="#" class="jevent-title-1 toggle"> earn $10,000 in 2  <span class="theme-color">  months </span> </a>
-                                <div class="schedule-details">
-                                    <div class="schedule-handler">
-                                        <img src="assets/img/avatars/avtar-1.png" alt="">
-                                    </div>
-                                    <div class="schedule-box">
-                                        <h6 class="secondery-font"> <span class="black-color">8:00 - 8:45, </span> <span> Hall A </span> </h6>
-                                        <p>Justo vitae risus viverra vulputate. Mauris vel ipsum dignissim diam viverra condimentum. Donec sodales, diam eget mattis condimentum, quam neque tempus purus, dictum viverra risus nisl quis metus.</p>
-                                        <p class="secondery-font"><span class="black-color">Speakers:</span> <span class="theme-color"> Jessica Spring</span> </p>
-                                    </div>
-                                </div>
-                            </li>
-                            <li class="wow fadeInUp"  data-wow-delay="0.8s">
-                                <a href="#" class="jevent-title-1 toggle"> making a good product  <span class="theme-color">  strategies </span> </a>
-                                <div class="schedule-details">
-                                    <div class="schedule-handler">
-                                        <img src="assets/img/avatars/avtar-1.png" alt="">
-                                    </div>
-                                    <div class="schedule-box">
-                                        <h6 class="secondery-font"> <span class="black-color">8:00 - 8:45, </span> <span> Hall A </span> </h6>
-                                        <p>Justo vitae risus viverra vulputate. Mauris vel ipsum dignissim diam viverra condimentum. Donec sodales, diam eget mattis condimentum, quam neque tempus purus, dictum viverra risus nisl quis metus.</p>
-                                        <p class="secondery-font"><span class="black-color">Speakers:</span> <span class="theme-color"> Jessica Spring</span> </p>
-                                    </div>
-                                </div>
-                            </li>
-                            <li class="wow fadeInUp"  data-wow-delay="0.8s">
-                                <a href="#" class="jevent-title-1 toggle"> learn the principles of <span class="theme-color">  earning </span> </a>
-                                <div class="schedule-details">
-                                    <div class="schedule-handler">
-                                        <img src="assets/img/avatars/avtar-1.png" alt="">
-                                    </div>
-                                    <div class="schedule-box">
-                                        <h6 class="secondery-font"> <span class="black-color">8:00 - 8:45, </span> <span> Hall A </span> </h6>
-                                        <p>Justo vitae risus viverra vulputate. Mauris vel ipsum dignissim diam viverra condimentum. Donec sodales, diam eget mattis condimentum, quam neque tempus purus, dictum viverra risus nisl quis metus.</p>
-                                        <p class="secondery-font"><span class="black-color">Speakers:</span> <span class="theme-color"> Jessica Spring</span> </p>
-                                    </div>
-                                </div>
-                            </li>
+
                         </ul>
                     </div>
                 </div>
@@ -841,8 +561,8 @@
             <span class="mask-overlay"></span>
             <div class="container theme-container relative-div">
                 <div class="title-wrap space-45">
-                    <h2 class="section-heading white-color wow fadeInDown"  data-wow-delay="0.8s"> Our Speakers </h2>
-                    <p class="title-devider dark wow fadeInUp"  data-wow-delay="0.8s"> <span class="white-line-1 wow fadeInUp"  data-wow-delay="2.0s">  </span> <span class="white-line-2 wow fadeInUp"  data-wow-delay="1.8s">  </span> <span class="white-line-3 wow fadeInUp"  data-wow-delay="1.6s">  </span></p>
+                    <h2 class="section-heading white-color wow fadeInDown"  data-wow-delay="0.2s"> Our Speakers </h2>
+                    <p class="title-devider dark wow fadeInUp"  data-wow-delay="0.2s"> <span class="white-line-1 wow fadeInUp"  data-wow-delay="2.0s">  </span> <span class="white-line-2 wow fadeInUp"  data-wow-delay="1.8s">  </span> <span class="white-line-3 wow fadeInUp"  data-wow-delay="1.6s">  </span></p>
                 </div>
                 <div class="row">
                     <div class="col-md-3 col-sm-6 space-bottom-50 speakers-wrap">
@@ -920,13 +640,13 @@
         <div class="light-bg event-faqs-wrap space-100">
             <div class="container theme-container">
                 <div class="title-wrap space-bottom-30">
-                    <h2 class="section-heading wow fadeInDown"  data-wow-delay="0.8s"> Kenyan   <span class="theme-color"> Opportunities </span> </h2>
-                    <p class="title-devider wow fadeInUp"  data-wow-delay="0.8s"> <span class="line-1 wow fadeInUp"  data-wow-delay="2.0s">  </span> <span class="line-2 wow fadeInUp"  data-wow-delay="1.8s">  </span> <span class="line-3 wow fadeInUp"  data-wow-delay="1.6s">  </span></p>
+                    <h2 class="section-heading wow fadeInDown"  data-wow-delay="0.2s"> Kenyan   <span class="theme-color"> Opportunities </span> </h2>
+                    <p class="title-devider wow fadeInUp"  data-wow-delay="0.2s"> <span class="line-1 wow fadeInUp"  data-wow-delay="2.0s">  </span> <span class="line-2 wow fadeInUp"  data-wow-delay="1.8s">  </span> <span class="line-3 wow fadeInUp"  data-wow-delay="1.6s">  </span></p>
                 </div>
                 <div class="row">
                     <div class="col-md-4 col-sm-5">
                         <ul class="nav-tabs secondery-font event-faqs-tabs" role="tablist">
-                            <li class="active wow fadeInLeft"  data-wow-delay="0.8s"  role="presentation">
+                            <li class="active wow fadeInLeft"  data-wow-delay="0.2s"  role="presentation">
                                 <a aria-expanded="false" href="#faqs-1" role="tab" data-toggle="tab" > OVERVIEW</a>
                             </li>
                             <li  role="presentation" class="wow fadeInLeft"  data-wow-delay="1.1s">
@@ -1042,8 +762,8 @@
         <div class="register-bg">
             <div class="container theme-container space-100">
                 <div class="title-wrap space-bottom-50">
-                    <h2 class="section-heading white-color wow fadeInDown"  data-wow-delay="0.8s"> Register </h2>
-                    <p class="title-devider wow fadeInUp"  data-wow-delay="0.8s"> <span class="white-line-1 wow fadeInUp"  data-wow-delay="2.0s">  </span> <span class="white-line-2 wow fadeInUp"  data-wow-delay="1.8s">  </span> <span class="white-line-3 wow fadeInUp"  data-wow-delay="1.6s">  </span></p>
+                    <h2 class="section-heading white-color wow fadeInDown"  data-wow-delay="0.2s"> Register </h2>
+                    <p class="title-devider wow fadeInUp"  data-wow-delay="0.2s"> <span class="white-line-1 wow fadeInUp"  data-wow-delay="2.0s">  </span> <span class="white-line-2 wow fadeInUp"  data-wow-delay="1.8s">  </span> <span class="white-line-3 wow fadeInUp"  data-wow-delay="1.6s">  </span></p>
                 </div>
                 <form class="contact-form" id="registration-form" method="post" action="#">
                     <div class="row">
@@ -1052,7 +772,7 @@
                             <label class="sr-only" for="rf_first_name">First Name</label>
                             <input type="text" placeholder="First Name" name="rf_first_name" id="rf_first_name" value="" data-toggle="tooltip" title="First Name is required" class="form-control input-first-name">
                         </div>
-                        <div class="form-group col-sm-3 wow fadeInDown"  data-wow-delay="0.8s">
+                        <div class="form-group col-sm-3 wow fadeInDown"  data-wow-delay="0.2s">
                             <label class="sr-only" for="rf_last_name">Last Name</label>
                             <input type="text" placeholder="Last Name" name="rf_last_name" id="rf_last_name" value="" data-toggle="tooltip" title="Last Name is required" class="form-control input-last-name">
                         </div>
@@ -1065,7 +785,7 @@
                             <input type="text" placeholder="Phone Number" name="rf_phone" id="rf_phone" value="" data-toggle="tooltip" title="Phone is required" class="form-control input-phone">
                         </div>
                         <div class="form-group col-sm-offset-3 col-sm-6 button-style">
-                            <label class="theme-btn btn wow zoomIn"  data-wow-delay="0.8s">
+                            <label class="theme-btn btn wow zoomIn"  data-wow-delay="0.2s">
                                 <input type="submit" name="rf_submit" id="rf_submit" value="Register Now" class="form-button form-button-submit submit-button">
                             </label>
                         </div>
@@ -1084,7 +804,7 @@
                 <div class="container theme-container">
                     <ul class="footer-social">
                         <li> <a href="#" class="wow zoomIn"  data-wow-delay="0.6s"><span class="fa fa-facebook"></span> </a> </li>
-                        <li> <a href="#" class="wow zoomIn"  data-wow-delay="0.8s"><span class="fa fa-twitter"></span> </a> </li>
+                        <li> <a href="#" class="wow zoomIn"  data-wow-delay="0.2s"><span class="fa fa-twitter"></span> </a> </li>
                         <li> <a href="#" class="wow zoomIn"  data-wow-delay="1.4s"><span class="fa fa-linkedin"></span> </a> </li>
                         <li> <a href="#" class="wow zoomIn"  data-wow-delay="1.7s"><span class="fa fa-instagram"></span> </a> </li>
                     </ul>
