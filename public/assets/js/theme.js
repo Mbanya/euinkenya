@@ -153,7 +153,7 @@ jQuery(document).ready(function () {
     // Countdown Start
     if ($().countdown) {
         var austDay = new Date();
-        austDay = new Date(2022, 10, 1-1);
+        austDay = new Date(2023, 2, 22-1);
         $('#dealCountdown1').countdown({until: austDay});
         $('#dealCountdown2').countdown({until: austDay});
         $('#dealCountdown3').countdown({until: austDay});
