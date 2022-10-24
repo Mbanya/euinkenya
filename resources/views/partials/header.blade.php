@@ -21,10 +21,10 @@
                             <ul class="nav navbar-nav pull-right primary-navbar">
                                 <li><a href="{{route('home')}}">Home</a></li>
                                 <li><a href="#jevent">About</a></li>
-                                <li><a href="#event-schedule">Programme</a></li>
-                                <li><a href="#brands-slider">Sponsors</a></li>
                                 <li><a href="#our-speakers">Speakers</a></li>
-                                <li><a href="#opportunity"> Opportunities in Kenya</a></li>
+                                <li><a href="#event-schedule">Programme</a></li>
+{{--                                <li><a href="#brands-slider">Sponsors</a></li>--}}
+{{--                                <li><a href="#opportunity"> Opportunities in Kenya</a></li>--}}
                             </ul>
                         </div>
                     </nav>

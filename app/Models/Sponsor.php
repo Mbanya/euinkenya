@@ -10,9 +10,8 @@ class Sponsor extends Model
     use \Backpack\CRUD\app\Models\Traits\CrudTrait;
     use HasFactory;
 
-    protected $fillable = [
-        'fullname','logo'
-    ];
+    protected $guarded =[];
+
 
 
 }

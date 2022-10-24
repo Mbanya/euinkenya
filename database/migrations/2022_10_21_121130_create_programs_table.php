@@ -20,7 +20,7 @@ return new class extends Migration
             $table->dateTime('end_time');
             $table->string('title');
             $table->text('description');
-            $table->foreignIdFor('App\Models\Speaker','speaker_id');
+            $table->string('speaker')->nullable();
             $table->timestamps();
         });
     }

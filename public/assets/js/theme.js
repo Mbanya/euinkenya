@@ -169,16 +169,4 @@ jQuery(document).ready(function () {
 });
 
 
-/*... GOOGLE API ...*/
-var myMarkers = {"markers": [
-        {"latitude": "-37.8176419", "longitude": "144.9554397", "icon": "assets/img/map-locator.png", "baloon_text": '103 Prince St New York, NY 10012, United States'}
-    ]};
-
-$("#map").mapmarker({
-    zoom: 15,
-    center: '121 King Street Melbourne Victoria 3000 Australia',
-    markers: myMarkers
-});
-
-
 
