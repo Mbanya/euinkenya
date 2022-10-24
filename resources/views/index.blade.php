@@ -256,59 +256,542 @@
                     <p class="title-devider wow fadeInUp"  data-wow-delay="0.2s"> <span class="line-1 wow fadeInUp"  data-wow-delay="2.0s">  </span> <span class="line-2 wow fadeInUp"  data-wow-delay="1.8s">  </span> <span class="line-3 wow fadeInUp"  data-wow-delay="1.6s">  </span></p>
                 </div>
 
+                <div class="event-schedule-wrap col-md-10">
+                    <h4>
+                        Day 1 : TRADING & INVESTING IN <span class="theme-color">KENYA</span>
+                    </h4>
 
-                @foreach($programs as $program)
-                    <div class="event-schedule-wrap col-md-10">
-                        <h4>
-                            {{$program->first()->day}}
-                        </h4>
-                        @php
-                            $times = \App\Models\Program::query()->where('day', $program->first()->day)->get()->groupBy('start_time');
-                        @endphp
-                        <ul class="nav-tabs secondery-font schedule-tabs" role="tablist" style="list-style: none;">
-                            @foreach($times as $index => $time)
-                                <li class="wow  {{ $index== 0 ? "active" : '' }} fadeInDown"  data-wow-delay="0.6s" role="presentation">
-                                    <a aria-expanded="false" href="#{{str_replace(' ', '', $program->first()->day).''.date('H',strtotime($time->first()->start_time))}}" role="tab" data-toggle="tab" >
-                                        <span class="number"><b> {{date('H:i', strtotime($time->first()->start_time))}} </b></span>
-                                        <span class="day"><b>  </b> Session</span>
-                                    </a>
-                                </li>
-                            @endforeach
+                    <ul class="nav-tabs secondery-font schedule-tabs" role="tablist" style="list-style: none;">
+
+                            <li class="wow active fadeInDown"  data-wow-delay="0.6s" role="presentation">
+                                <a aria-expanded="false" href="#8am" role="tab" data-toggle="tab" >
+                                    <span class="number"><b> 8:00 </b></span>
+                                    <span class="day"><b>  </b> Session</span>
+                                </a>
+                            </li>
+                        <li class="wow fadeInDown"  data-wow-delay="0.6s" role="presentation">
+                            <a aria-expanded="false" href="#9am" role="tab" data-toggle="tab" >
+                                <span class="number"><b> 9:00 </b></span>
+                                <span class="day"><b>  </b> Session</span>
+                            </a>
+                        </li>
+                        <li class="wow fadeInDown"  data-wow-delay="0.6s" role="presentation">
+                            <a aria-expanded="false" href="#930am" role="tab" data-toggle="tab" >
+                                <span class="number"><b> 9:30 </b></span>
+                                <span class="day"><b>  </b> Session</span>
+                            </a>
+                        </li>
+
+                        <li class="wow fadeInDown"  data-wow-delay="0.6s" role="presentation">
+                            <a aria-expanded="false" href="#10am" role="tab" data-toggle="tab" >
+                                <span class="number"><b> 10:00 </b></span>
+                                <span class="day"><b>  </b> Session</span>
+                            </a>
+                        </li>
+                        <li class="wow fadeInDown"  data-wow-delay="0.6s" role="presentation">
+                            <a aria-expanded="false" href="#1030am" role="tab" data-toggle="tab" >
+                                <span class="number"><b> 10:30 </b></span>
+                                <span class="day"><b>  </b> Session</span>
+                            </a>
+                        </li>
+                        <li class="wow fadeInDown"  data-wow-delay="0.6s" role="presentation">
+                            <a aria-expanded="false" href="#11am" role="tab" data-toggle="tab" >
+                                <span class="number"><b> 11:00 </b></span>
+                                <span class="day"><b>  </b> Session</span>
+                            </a>
+                        </li>
+                        <li class="wow fadeInDown"  data-wow-delay="0.6s" role="presentation">
+                            <a aria-expanded="false" href="#1130am" role="tab" data-toggle="tab" >
+                                <span class="number"><b> 11:30 </b></span>
+                                <span class="day"><b>  </b> Session</span>
+                            </a>
+                        </li>
+
+                        <li class="wow fadeInDown"  data-wow-delay="0.6s" role="presentation">
+                            <a aria-expanded="false" href="#15pm" role="tab" data-toggle="tab" >
+                                <span class="number"><b> 15:00 </b></span>
+                                <span class="day"><b>  </b> Session</span>
+                            </a>
+                        </li>
+                        <li class="wow fadeInDown"  data-wow-delay="0.6s" role="presentation">
+                            <a aria-expanded="false" href="#1630pm" role="tab" data-toggle="tab" >
+                                <span class="number"><b> 16:30 </b></span>
+                                <span class="day"><b>  </b> Session</span>
+                            </a>
+                        </li>
 
 
 
-                        </ul>
 
-                        @php
-                            $items = \App\Models\Program::query()->where('day',$program->first()->day)->get()
-                        @endphp
-                        <div class="tab-content">
-                            @foreach($items as $index => $item)
-                                <div role="tabpanel" class="tab-pane fade  {{ $index== 0 ? "active" : '' }} in" id="{{str_replace(' ', '', $item->first()->day).''.date('H', strtotime($item->first()->start_time))}}">
-                                    <ul class="schedule-list no-margin">
-                                        <li class="wow fadeInUp"  data-wow-delay="0.2s">
-                                            <a href="#" class="jevent-title-1 toggle"> {{$item->title}} </a>
-                                            <div class="schedule-details">
-                                                <div class="schedule-box">
-                                                    <h6 class="secondery-font"> <span class="black-color">{{date('H:i', strtotime($item->first()->start_time))}} - {{date('H:i', strtotime($item->first()->end_time))}} </span>  </h6>
-                                                    <p>
-                                                        {{$item->description}}
-                                                    </p>
-                                                    <p class="secondery-font"><span class="black-color">Speakers:</span> <span class="theme-color"> {{$item->speaker}}</span> </p>
-                                                </div>
+                    </ul>
+
+
+                    <div class="tab-content">
+
+                            <div role="tabpanel" class="tab-pane fadeIn active" id="8am">
+                                <ul class="schedule-list no-margin">
+                                    <li class="wow fadeInUp"  data-wow-delay="0.2s">
+                                        <a href="#" class="jevent-title-1 toggle"> Breakfast </a>
+                                        <div class="schedule-details">
+                                            <div class="schedule-box">
+                                                <h6 class="secondery-font"> <span class="black-color">8:00 - 8:45 </span>  </h6>
+                                                <p>
+                                                    Networking Breakfast
+                                                </p>
+                                                <p class="secondery-font"><span class="black-color">Speakers:</span> <span class="theme-color"> </span> </p>
                                             </div>
-                                        </li>
-                                    </ul>
-                                </div>
+                                        </div>
+                                    </li>
+                                </ul>
+                            </div>
 
-                            @endforeach
+                        <div role="tabpanel" class="tab-pane fadeIn" id="9am">
+                            <ul class="schedule-list no-margin">
+                                <li class="wow fadeInUp"  data-wow-delay="0.2s">
+                                    <a href="#" class="jevent-title-1 toggle"> KENYA: A DESTINATION FOR EU <span class="theme-color">INVESTMENTS & EXPORTS</span>  </a>
+                                    <div class="schedule-details">
+                                        <div class="schedule-box">
+                                            <h6 class="secondery-font"> <span class="black-color">8:00 - 8:45 </span>  </h6>
+                                            <p>
+                                                Opening Remarks
+                                                Vladis Dombrovskis, Executive Vice-President and EU Commissioner for Trade (tbc) H.E. Willian Ruto, President of Kenya (tbc)
+                                            </p>
+                                            <p class="secondery-font"><span class="black-color">Speakers:</span> <span class="theme-color"> </span> </p>
+                                        </div>
+                                    </div>
+                                </li>
+                            </ul>
+                        </div>
 
+                        <div role="tabpanel" class="tab-pane fadeIn" id="930am">
+                            <ul class="schedule-list no-margin">
+                                <li class="wow fadeInUp"  data-wow-delay="0.2s">
+                                    <a href="#" class="jevent-title-1 toggle"> EU – KENYA TRADE & INVESTMENT PARTNERSHIPS  TOWARDS A GREENER ECONOMY &  <span class="theme-color">HUMAN-CENTERED DIGITALISATION</span>  </a>
+                                    <div class="schedule-details">
+                                        <div class="schedule-box">
+                                            <h6 class="secondery-font"> <span class="black-color">9:30 - 10:00 </span>  </h6>
+                                            <p>
+                                                Henriette Geiger, EU Ambassador to Kenya on EU support to the private sector in Kenya
+                                                Flora Mutai, Chairman at the Kenya Private Sector Alliance (KEPSA) on FDI opportunities in Kenya
+                                                Darren Gillen, Chairman at the European Business Council on tbc
+                                                Tbc, CS for trade, industry & investment
+                                            </p>
+                                            <p class="secondery-font"><span class="black-color">Speakers:</span> <span class="theme-color">Panel moderated by tbc </span> </p>
+                                        </div>
+                                    </div>
+                                </li>
+                            </ul>
+                        </div>
+
+                        <div role="tabpanel" class="tab-pane fadeIn" id="10am">
+                            <ul class="schedule-list no-margin">
+                                <li class="wow fadeInUp"  data-wow-delay="0.2s">
+                                    <a href="#" class="jevent-title-1 toggle"> OPPORTUNITTIES FOR  <span class="theme-color">EU BUSINESS</span>  </a>
+                                    <div class="schedule-details">
+                                        <div class="schedule-box">
+                                            <h6 class="secondery-font"> <span class="black-color">10:00 - 11:00 </span>  </h6>
+                                            <p>
+                                                Minister of Agriculture
+                                                Minister of Trade
+                                                tbc on  digitalisation
+                                                tbc on  infrastructure
+                                                Q&As
+                                            </p>
+                                            <p class="secondery-font"><span class="black-color">Speakers:</span> <span class="theme-color">Panel moderated by the EU Delegation to Kenya </span> </p>
+                                        </div>
+                                    </div>
+                                </li>
+                            </ul>
+                        </div>
+
+                        <div role="tabpanel" class="tab-pane fadeIn" id="1030am">
+                            <ul class="schedule-list no-margin">
+                                <li class="wow fadeInUp"  data-wow-delay="0.2s">
+                                    <a href="#" class="jevent-title-1 toggle"> SIGNING CEREMONIES </a>
+                                    <div class="schedule-details">
+                                        <div class="schedule-box">
+                                            <h6 class="secondery-font"> <span class="black-color">10:30 - 11:00 </span>  </h6>
+                                            <p>
+                                                Signing Ceremony
+                                            </p>
+                                        </div>
+                                    </div>
+                                </li>
+                            </ul>
+                        </div>
+
+
+                        <div role="tabpanel" class="tab-pane fadeIn" id="11am">
+                            <ul class="schedule-list no-margin">
+                                <li class="wow fadeInUp"  data-wow-delay="0.2s">
+                                    <a href="#" class="jevent-title-1 toggle"> Press Conference   </a>
+                                    <div class="schedule-details">
+                                        <div class="schedule-box">
+                                            <h6 class="secondery-font"> <span class="black-color">11:30 - 11:30 </span>  </h6>
+                                            <p>
+                                                Press Conference
+                                            </p>
+                                            <p class="secondery-font"><span class="black-color">Speakers:</span> <span class="theme-color">Panel moderated by tbc </span> </p>
+                                        </div>
+                                    </div>
+                                </li>
+                            </ul>
+                        </div>
+
+                        <div role="tabpanel" class="tab-pane fadeIn" id="1130am">
+                            <ul class="schedule-list no-margin">
+                                <li class="wow fadeInUp"  data-wow-delay="0.2s">
+                                    <a href="#" class="jevent-title-1 toggle"> Business opportunities in <span class="theme-color">CIRCULAR ECONOMY</span>   </a>
+                                    <div class="schedule-details">
+                                        <div class="schedule-box">
+                                            <h6 class="secondery-font"> <span class="black-color">11:30 - 13:00 </span>  </h6>
+                                            <p>
+                                                Opportunities & challenges by firms
+                                                Regulation in the sector by the . Kenyan Association/Gov agency to be identified
+                                            </p>
+                                            <p class="secondery-font"><span class="black-color">Speakers:</span> <span class="theme-color">EU BSO </span> </p>
+                                        </div>
+                                    </div>
+                                </li>
+                            </ul>
+
+                            <ul class="schedule-list no-margin">
+                                <li class="wow fadeInUp"  data-wow-delay="0.2s">
+                                    <a href="#" class="jevent-title-1 toggle"> Business opportunities in  <span class="theme-color">AGRICULTURE</span>   </a>
+                                    <div class="schedule-details">
+                                        <div class="schedule-box">
+                                            <h6 class="secondery-font"> <span class="black-color">11:30 - 13:00 </span>  </h6>
+                                            <p>
+                                                Opportunities & challenges by firms
+                                                Regulation in the sector by the . Kenyan Association/Gov agency to be identified
+                                            </p>
+                                            <p class="secondery-font"><span class="black-color">Speakers:</span> <span class="theme-color">EU BSO </span> </p>
+                                        </div>
+                                    </div>
+                                </li>
+                            </ul>
+
+                            <ul class="schedule-list no-margin">
+                                <li class="wow fadeInUp"  data-wow-delay="0.2s">
+                                    <a href="#" class="jevent-title-1 toggle"> Business opportunities in  <span class="theme-color">DIGITALISATION</span>   </a>
+                                    <div class="schedule-details">
+                                        <div class="schedule-box">
+                                            <h6 class="secondery-font"> <span class="black-color">11:30 - 13:00 </span>  </h6>
+                                            <p>
+                                                Opportunities & challenges by firms
+                                                Regulation in the sector by the . Kenyan Association/Gov agency to be identified
+                                            </p>
+                                            <p class="secondery-font"><span class="black-color">Speakers:</span> <span class="theme-color">EU BSO </span> </p>
+                                        </div>
+                                    </div>
+                                </li>
+                            </ul>
+
+                        </div>
+
+
+                        <div role="tabpanel" class="tab-pane fadeIn" id="15pm">
+                            <ul class="schedule-list no-margin">
+                                <li class="wow fadeInUp"  data-wow-delay="0.2s">
+                                    <a href="#" class="jevent-title-1 toggle"> Business opportunities in  <span class="theme-color">WATER & WASTE MANAGEMENT</span>   </a>
+                                    <div class="schedule-details">
+                                        <div class="schedule-box">
+                                            <h6 class="secondery-font"> <span class="black-color">15:00 - 16:30 </span>  </h6>
+                                            <p>
+                                                Opportunities & challenges by firms
+                                                Regulation in the sector by the . Kenyan Association/Gov agency to be identified
+                                            </p>
+                                            <p class="secondery-font"><span class="black-color">Speakers:</span> <span class="theme-color">EU BSO </span> </p>
+                                        </div>
+                                    </div>
+                                </li>
+                            </ul>
+
+                            <ul class="schedule-list no-margin">
+                                <li class="wow fadeInUp"  data-wow-delay="0.2s">
+                                    <a href="#" class="jevent-title-1 toggle"> Business opportunities in  <span class="theme-color">Blue Economy</span>   </a>
+                                    <div class="schedule-details">
+                                        <div class="schedule-box">
+                                            <h6 class="secondery-font"> <span class="black-color">15:00 - 16:30 </span>  </h6>
+                                            <p>
+                                                Opportunities & challenges by firms
+                                                Regulation in the sector by the . Kenyan Association/Gov agency to be identified
+                                            </p>
+                                            <p class="secondery-font"><span class="black-color">Speakers:</span> <span class="theme-color">EU BSO </span> </p>
+                                        </div>
+                                    </div>
+                                </li>
+                            </ul>
+
+                            <ul class="schedule-list no-margin">
+                                <li class="wow fadeInUp"  data-wow-delay="0.2s">
+                                    <a href="#" class="jevent-title-1 toggle"> Business opportunities in  <span class="theme-color">AGRO-PROCESSING</span>   </a>
+                                    <div class="schedule-details">
+                                        <div class="schedule-box">
+                                            <h6 class="secondery-font"> <span class="black-color">15:00 - 16:30 </span>  </h6>
+                                            <p>
+                                                Opportunities & challenges by firms
+                                                Regulation in the sector by the . Kenyan Association/Gov agency to be identified
+                                            </p>
+                                            <p class="secondery-font"><span class="black-color">Speakers:</span> <span class="theme-color">EU BSO </span> </p>
+                                        </div>
+                                    </div>
+                                </li>
+                            </ul>
+
+                            <ul class="schedule-list no-margin">
+                                <li class="wow fadeInUp"  data-wow-delay="0.2s">
+                                    <a href="#" class="jevent-title-1 toggle"> Business opportunities in  <span class="theme-color">HEALTH</span>   </a>
+                                    <div class="schedule-details">
+                                        <div class="schedule-box">
+                                            <h6 class="secondery-font"> <span class="black-color">15:00 - 16:30 </span>  </h6>
+                                            <p>
+                                                Opportunities & challenges by firms
+                                                Regulation in the sector by the . Kenyan Association/Gov agency to be identified
+                                            </p>
+                                            <p class="secondery-font"><span class="black-color">Speakers:</span> <span class="theme-color">EU BSO </span> </p>
+                                        </div>
+                                    </div>
+                                </li>
+                            </ul>
+                        </div>
+
+                        <div role="tabpanel" class="tab-pane fadeIn" id="1630pm">
+                            <ul class="schedule-list no-margin">
+                                <li class="wow fadeInUp"  data-wow-delay="0.2s">
+                                    <a href="#" class="jevent-title-1 toggle"> Closure </a>
+                                    <div class="schedule-details">
+                                        <div class="schedule-box">
+                                            <h6 class="secondery-font"> <span class="black-color">16:30 - 17:30 </span>  </h6>
+                                            <p>
+                                                Henriette Geiger, EU Ambassador to Kenya and moderators on the key takeaways per panel
+                                                Hon. Betty C. Maina Minister of Trade & Industry of Kenya on follow-up actions (tbc)
+                                            </p>
+                                        </div>
+                                    </div>
+                                </li>
+                            </ul>
+
+
+
+
+
+
+                        </div>
+
+
+
+
+                    </div>
+
+
+                </div>
+
+                <div class="event-schedule-wrap col-md-10">
+                    <h4>
+                        Day 2 : INFRASTRUCTURE &  <span class="theme-color">BUSINESS ENVIRONMENT</span>
+                    </h4>
+
+                    <ul class="nav-tabs secondery-font schedule-tabs" role="tablist" style="list-style: none;">
+
+                        <li class="wow active fadeInDown"  data-wow-delay="0.6s" role="presentation">
+                            <a aria-expanded="false" href="#830amd2" role="tab" data-toggle="tab" >
+                                <span class="number"><b> 8:30 </b></span>
+                                <span class="day"><b>  </b> Session</span>
+                            </a>
+                        </li>
+                        <li class="wow fadeInDown"  data-wow-delay="0.6s" role="presentation">
+                            <a aria-expanded="false" href="#945amd2" role="tab" data-toggle="tab" >
+                                <span class="number"><b> 9:45 </b></span>
+                                <span class="day"><b>  </b> Session</span>
+                            </a>
+                        </li>
+                        <li class="wow fadeInDown"  data-wow-delay="0.6s" role="presentation">
+                            <a aria-expanded="false" href="#10amd2" role="tab" data-toggle="tab" >
+                                <span class="number"><b> 10:00 </b></span>
+                                <span class="day"><b>  </b> Session</span>
+                            </a>
+                        </li>
+
+                        <li class="wow fadeInDown"  data-wow-delay="0.6s" role="presentation">
+                            <a aria-expanded="false" href="#1130amd2" role="tab" data-toggle="tab" >
+                                <span class="number"><b> 11:30 </b></span>
+                                <span class="day"><b>  </b> Session</span>
+                            </a>
+                        </li>
+
+                        <li class="wow fadeInDown"  data-wow-delay="0.6s" role="presentation">
+                            <a aria-expanded="false" href="#1230pmd2" role="tab" data-toggle="tab" >
+                                <span class="number"><b> 12:30 </b></span>
+                                <span class="day"><b>  </b> Session</span>
+                            </a>
+                        </li>
+
+
+
+
+                    </ul>
+
+
+                    <div class="tab-content">
+
+                        <div role="tabpanel" class="tab-pane fadeIn active" id="830amd2">
+                            <ul class="schedule-list no-margin">
+                                <li class="wow fadeInUp"  data-wow-delay="0.2s">
+                                    <a href="#" class="jevent-title-1 toggle"> Business opportunities in <span class="theme-color">WATER INFRASTRUCTURE</span> </a>
+                                    <div class="schedule-details">
+                                        <div class="schedule-box">
+                                            <h6 class="secondery-font"> <span class="black-color">8:30 - 9:45 </span>  </h6>
+                                            <p>
+                                                Opportunities & challenges by firms
+
+                                                Regulation in the sector by the Kenyan Association/Gov agency to be identified.
+                                            </p>
+                                            <p class="secondery-font"><span class="black-color">Speakers:</span> <span class="theme-color">EU BSO </span> </p>
+                                        </div>
+                                    </div>
+                                </li>
+                            </ul>
+
+                            <ul class="schedule-list no-margin">
+                                <li class="wow fadeInUp"  data-wow-delay="0.2s">
+                                    <a href="#" class="jevent-title-1 toggle"> Business opportunities in <span class="theme-color">e-MOBILITY & URBAN TRANSPORT</span> </a>
+                                    <div class="schedule-details">
+                                        <div class="schedule-box">
+                                            <h6 class="secondery-font"> <span class="black-color">8:30 - 10:00 </span>  </h6>
+                                            <p>
+                                                Opportunities & challenges by firms
+
+                                                Regulation in the sector by the Kenyan Association/Gov agency to be identified.
+                                            </p>
+                                            <p class="secondery-font"><span class="black-color">Speakers:</span> <span class="theme-color">EU BSO </span> </p>
+                                        </div>
+                                    </div>
+                                </li>
+                            </ul>
+
+                            <ul class="schedule-list no-margin">
+                                <li class="wow fadeInUp"  data-wow-delay="0.2s">
+                                    <a href="#" class="jevent-title-1 toggle"> Business opportunities in <span class="theme-color">RENEWABLE ENERGY & HYDROGEN</span> </a>
+                                    <div class="schedule-details">
+                                        <div class="schedule-box">
+                                            <h6 class="secondery-font"> <span class="black-color">8:30 - 10:00 </span>  </h6>
+                                            <p>
+                                                Opportunities & challenges by firms
+
+                                                Regulation in the sector by the Kenyan Association/Gov agency to be identified.
+                                            </p>
+                                            <p class="secondery-font"><span class="black-color">Speakers:</span> <span class="theme-color">EU BSO </span> </p>
+                                        </div>
+                                    </div>
+                                </li>
+                            </ul>
+                        </div>
+
+                        <div role="tabpanel" class="tab-pane fadeIn" id="945amd2">
+
+                            <ul class="schedule-list no-margin">
+                                <li class="wow fadeInUp"  data-wow-delay="0.2s">
+                                    <a href="#" class="jevent-title-1 toggle"> Business opportunities in <span class="theme-color">CONSTRUCTION</span> </a>
+                                    <div class="schedule-details">
+                                        <div class="schedule-box">
+                                            <h6 class="secondery-font"> <span class="black-color">9:45 - 11:15 </span>  </h6>
+                                            <p>
+                                                Opportunities & challenges by firms
+
+                                                Regulation in the sector by the Kenyan Association/Gov agency to be identified.
+                                            </p>
+                                            <p class="secondery-font"><span class="black-color">Speakers:</span> <span class="theme-color">EU BSO </span> </p>
+                                        </div>
+                                    </div>
+                                </li>
+                            </ul>
+                        </div>
+
+                        <div role="tabpanel" class="tab-pane fadeIn" id="10amd2">
+                            <ul class="schedule-list no-margin">
+                                <li class="wow fadeInUp"  data-wow-delay="0.2s">
+                                    <a href="#" class="jevent-title-1 toggle"> Business opportunities in <span class="theme-color">LOGISTICS & FREIGHT</span> </a>
+                                    <div class="schedule-details">
+                                        <div class="schedule-box">
+                                            <h6 class="secondery-font"> <span class="black-color">10:00 - 11:30 </span>  </h6>
+                                            <p>
+                                                Opportunities & challenges by firms
+
+                                                Regulation in the sector by the Kenyan Association/Gov agency to be identified.
+                                            </p>
+                                            <p class="secondery-font"><span class="black-color">Speakers:</span> <span class="theme-color">EU BSO </span> </p>
+                                        </div>
+                                    </div>
+                                </li>
+                            </ul>
+
+                            <ul class="schedule-list no-margin">
+                                <li class="wow fadeInUp"  data-wow-delay="0.2s">
+                                    <a href="#" class="jevent-title-1 toggle"> Business opportunities in <span class="theme-color">ENERGY TRANSMISSION</span> </a>
+                                    <div class="schedule-details">
+                                        <div class="schedule-box">
+                                            <h6 class="secondery-font"> <span class="black-color">10:00 - 11:30 </span>  </h6>
+                                            <p>
+                                                Opportunities & challenges by firms
+
+                                                Regulation in the sector by the Kenyan Association/Gov agency to be identified.
+                                            </p>
+                                            <p class="secondery-font"><span class="black-color">Speakers:</span> <span class="theme-color">EU BSO </span> </p>
+                                        </div>
+                                    </div>
+                                </li>
+                            </ul>
+
+
+
+
+                        </div>
+
+                        <div role="tabpanel" class="tab-pane fadeIn" id="1130amd2">
+                            <ul class="schedule-list no-margin">
+                                <li class="wow fadeInUp"  data-wow-delay="0.2s">
+                                    <a href="#" class="jevent-title-1 toggle"> FINANCE & SUPPORT   <span class="theme-color">FOR INVESTMENT & TRADE</span>  </a>
+                                    <div class="schedule-details">
+                                        <div class="schedule-box">
+                                            <h6 class="secondery-font"> <span class="black-color">11:30 - 12:30 </span>  </h6>
+                                            <p>
+                                                Strategic investment Finance tools - sovereign and commercial subovereign (tbc)
+                                                Mid Caps- Private Sector Finance (tbc)
+                                                SMEs finance (tbc)
+                                                IYBA launch
+                                            </p>
+                                            <p class="secondery-font"><span class="black-color">Speakers:</span> <span class="theme-color">Panel moderated by EIB</span> </p>
+                                        </div>
+                                    </div>
+                                </li>
+                            </ul>
+                        </div>
+
+                        <div role="tabpanel" class="tab-pane fadeIn" id="1230pmd2">
+                            <ul class="schedule-list no-margin">
+                                <li class="wow fadeInUp"  data-wow-delay="0.2s">
+                                    <a href="#" class="jevent-title-1 toggle"> BUSINESS ENVIRONMENT  (Closure) </a>
+                                    <div class="schedule-details">
+                                        <div class="schedule-box">
+                                            <h6 class="secondery-font"> <span class="black-color">12:30 - 13:30 </span>  </h6>
+                                            <p>
+                                                Henriette Geiger, EU Ambassador to Kenya and moderators on the key takeaways per panel
+                                                Flora Mutai, Chairman at the Kenya Private Sector Alliance (KEPSA) on harnessing business opportunities, milestones in overcoming business environment challenges
+                                                XXX, Minister of EAC on XXXX
+                                                Hon. Betty C. Maina Minister of Trade & Industry of Kenya on follow-up actions (tbc)
+                                            </p>
+                                        </div>
+                                    </div>
+                                </li>
+                            </ul>
                         </div>
 
 
                     </div>
 
-                @endforeach
+
+                </div>
 
             </div>
         </section>
