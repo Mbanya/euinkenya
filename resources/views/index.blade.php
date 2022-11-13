@@ -49,7 +49,7 @@
                             </div>
                             <div class="feature-info secondery-font wow fadeInRight" data-wow-delay="0.2s">
                                 <a href="#" class="theme-color"> <b> Location </b> </a>
-                                <h5>Radisson Blu Hotel Upper Hill</h5>
+                                <a href="https://www.google.com/maps/place/Radisson+Blu+Hotel,+Nairobi+Upper+Hill/@-1.3022795,36.7467018,12z/data=!4m8!3m7!1s0x182f10e51817c5bd:0x3a9709be7741fa63!5m2!4m1!1i2!8m2!3d-1.3022805!4d36.8167439"><h5>Radisson Blu Hotel Upper Hill</h5></a>
                             </div>
                         </div>
                         <div class="col-sm-6 feature-box">
