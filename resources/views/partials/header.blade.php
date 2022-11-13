@@ -4,7 +4,7 @@
             <div class="row">
                 <div class="col-md-3 col-sm-3 logo">
                     <h2 class="logo-title  wow fadeInUp" data-wow-delay="0.2s" >
-                        <a href="#"> <img src="{{asset('assets/kenya-eu-flags.png')}}" alt=""> </a>
+                        <a href="{{route('home')}}"> <img src="{{asset('assets/logo.jpeg')}}" alt="" width="120"> </a>
                     </h2>
                     <div class="navbar-header">
                         <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#primary-navigation" >
@@ -21,10 +21,17 @@
                             <ul class="nav navbar-nav pull-right primary-navbar">
                                 <li><a href="{{route('home')}}">Home</a></li>
                                 <li><a href="#jevent">About</a></li>
-                                <li><a href="#our-speakers">Speakers</a></li>
                                 <li><a href="#event-schedule">Programme</a></li>
-{{--                                <li><a href="#brands-slider">Sponsors</a></li>--}}
-{{--                                <li><a href="#opportunity"> Opportunities in Kenya</a></li>--}}
+                                <li class="dropdown">
+                                    <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" >Business and Investment </a>
+                                    <ul class="dropdown-menu">
+                                        <li><a href="http://www.invest.go.ke/" target="_blank">Opportunities in Kenya </a></li>
+                                        <li><a href="http://www.invest.go.ke/" target="_blank">Opportunities in the European Union</a></li>
+
+                                    </ul>
+                                </li>
+
+                                <li><a href="#latest-event"> Contact Us </a></li>
                             </ul>
                         </div>
                     </nav>
