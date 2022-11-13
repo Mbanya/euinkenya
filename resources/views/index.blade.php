@@ -112,47 +112,47 @@
                             </div>
                         </div>
                     </div>
-                    <div class="col-md-6 col-sm-6 space-bottom-50">
-                        <div class="jevent-wrap">
-                            <div class="jevent-content">
-                                <a href="#" class="jevent-title-1 wow fadeInDown"  data-wow-delay="0.2s"> Business talking  <span class="theme-color"> to business </span> </a>
-                                <p class="wow fadeInDown"  data-wow-delay="1.0s">
-                                    The forum includes a platform for direct interaction between companies (B2B) and between firms and policymakers (B2G).
-                                    These are structured networking and matchmaking sessions will assist you to elevate your personal and organizational brand,
-                                    discover new business partners, discover new investment opportunities or investors among the hundreds of trade and
-                                    investment professionals. One to one meetings (physical and online) will be arranged between Kenyan and EU companies,
-                                    investors and public stakeholders. For the B2B meetings, appointments will be pre-scheduled as per the interest of the participants
-                                </p>
-                            </div>
-                        </div>
-                    </div>
-                    <div class="col-md-12 col-sm-12 space-bottom-50">
-                        <div class="jevent-wrap">
-                            <div class="jevent-content">
-                                <a href="#" class="jevent-title-1 wow fadeInDown"  data-wow-delay="0.2s"> Investment  <span class="theme-color"> facilitation </span> </a>
-                                <p class="wow fadeInDown"  data-wow-delay="1.0s">
-                                    The EU-Kenya Business Forum aims to foster European trade & investment in Kenya by highlighting economic opportunities and potential whilst
-                                    discussing areas for improvements. The event will promote Kenya as a business destination, boost trade, create decent jobs and promote
-                                    sustainable and diversified growth. In line with its strategic vision, the EU and its Member states, being major trade and investment partners,
-                                    are committed to support the formulation and implementation of reforms oriented towards a sustainable economic diversification of
-                                    the Kenyan economy.
-                                </p>
-                            </div>
-                        </div>
-                    </div>
-                    <div class="col-md-6 col-sm-6 space-bottom-50">
-                        <div class="jevent-wrap">
-                            <div class="jevent-content">
-                                <a href="#" class="jevent-title-1 wow fadeInDown"  data-wow-delay="0.2s"> Event  <span class="theme-color"> Format </span> </a>
-                                <p class="wow fadeInDown"  data-wow-delay="1.0s">
-                                    There will also be a series of workshops & side events to assist you interact with leading trade and business
-                                    associations and Government agencies to get insights on promising sectors for investments, markets for exports
-                                    and hear about business opportunities, government policies and success stories. A dedicated workshop will focus
-                                    on how to export to the EU markets. The Forum provides a platform for networking and deal making.
-                                </p>
-                            </div>
-                        </div>
-                    </div>
+{{--                    <div class="col-md-6 col-sm-6 space-bottom-50">--}}
+{{--                        <div class="jevent-wrap">--}}
+{{--                            <div class="jevent-content">--}}
+{{--                                <a href="#" class="jevent-title-1 wow fadeInDown"  data-wow-delay="0.2s"> Business talking  <span class="theme-color"> to business </span> </a>--}}
+{{--                                <p class="wow fadeInDown"  data-wow-delay="1.0s">--}}
+{{--                                    The forum includes a platform for direct interaction between companies (B2B) and between firms and policymakers (B2G).--}}
+{{--                                    These are structured networking and matchmaking sessions will assist you to elevate your personal and organizational brand,--}}
+{{--                                    discover new business partners, discover new investment opportunities or investors among the hundreds of trade and--}}
+{{--                                    investment professionals. One to one meetings (physical and online) will be arranged between Kenyan and EU companies,--}}
+{{--                                    investors and public stakeholders. For the B2B meetings, appointments will be pre-scheduled as per the interest of the participants--}}
+{{--                                </p>--}}
+{{--                            </div>--}}
+{{--                        </div>--}}
+{{--                    </div>--}}
+{{--                    <div class="col-md-12 col-sm-12 space-bottom-50">--}}
+{{--                        <div class="jevent-wrap">--}}
+{{--                            <div class="jevent-content">--}}
+{{--                                <a href="#" class="jevent-title-1 wow fadeInDown"  data-wow-delay="0.2s"> Investment  <span class="theme-color"> facilitation </span> </a>--}}
+{{--                                <p class="wow fadeInDown"  data-wow-delay="1.0s">--}}
+{{--                                    The EU-Kenya Business Forum aims to foster European trade & investment in Kenya by highlighting economic opportunities and potential whilst--}}
+{{--                                    discussing areas for improvements. The event will promote Kenya as a business destination, boost trade, create decent jobs and promote--}}
+{{--                                    sustainable and diversified growth. In line with its strategic vision, the EU and its Member states, being major trade and investment partners,--}}
+{{--                                    are committed to support the formulation and implementation of reforms oriented towards a sustainable economic diversification of--}}
+{{--                                    the Kenyan economy.--}}
+{{--                                </p>--}}
+{{--                            </div>--}}
+{{--                        </div>--}}
+{{--                    </div>--}}
+{{--                    <div class="col-md-6 col-sm-6 space-bottom-50">--}}
+{{--                        <div class="jevent-wrap">--}}
+{{--                            <div class="jevent-content">--}}
+{{--                                <a href="#" class="jevent-title-1 wow fadeInDown"  data-wow-delay="0.2s"> Event  <span class="theme-color"> Format </span> </a>--}}
+{{--                                <p class="wow fadeInDown"  data-wow-delay="1.0s">--}}
+{{--                                    There will also be a series of workshops & side events to assist you interact with leading trade and business--}}
+{{--                                    associations and Government agencies to get insights on promising sectors for investments, markets for exports--}}
+{{--                                    and hear about business opportunities, government policies and success stories. A dedicated workshop will focus--}}
+{{--                                    on how to export to the EU markets. The Forum provides a platform for networking and deal making.--}}
+{{--                                </p>--}}
+{{--                            </div>--}}
+{{--                        </div>--}}
+{{--                    </div>--}}
                     <div class="col-md-6 col-sm-6 space-bottom-50">
                         <div class="jevent-wrap">
                             <div class="jevent-content">

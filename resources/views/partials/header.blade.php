@@ -4,7 +4,7 @@
             <div class="row">
                 <div class="col-md-3 col-sm-3 logo">
                     <h2 class="logo-title  wow fadeInUp" data-wow-delay="0.2s" >
-                        <a href="{{route('home')}}"> <img src="{{asset('assets/logo.jpeg')}}" alt="" width="120"> </a>
+                        <a href="{{route('home')}}"> <img src="{{asset('assets/logo.jpeg')}}" alt="" width="180"> </a>
                     </h2>
                     <div class="navbar-header">
                         <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#primary-navigation" >
