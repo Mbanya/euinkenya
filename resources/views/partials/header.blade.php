@@ -21,15 +21,17 @@
                             <ul class="nav navbar-nav pull-right primary-navbar">
                                 <li><a href="{{route('home')}}">Home</a></li>
                                 <li><a href="#jevent">About</a></li>
+                                <li><a href="#our-speakers">Speakers</a></li>
                                 <li><a href="#event-schedule">Programme</a></li>
-                                <li class="dropdown">
-                                    <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" >Business and Investment </a>
-                                    <ul class="dropdown-menu">
-                                        <li><a href="http://www.invest.go.ke/" target="_blank">Opportunities in Kenya </a></li>
-                                        <li><a href="http://www.invest.go.ke/" target="_blank">Opportunities in the European Union</a></li>
+                                <li><a href="#">Matchmaking</a></li>
+{{--                                <li class="dropdown">--}}
+{{--                                    <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" >Business and Investment </a>--}}
+{{--                                    <ul class="dropdown-menu">--}}
+{{--                                        <li><a href="http://www.invest.go.ke/" target="_blank">Opportunities in Kenya </a></li>--}}
+{{--                                        <li><a href="http://www.invest.go.ke/" target="_blank">Opportunities in the European Union</a></li>--}}
 
-                                    </ul>
-                                </li>
+{{--                                    </ul>--}}
+{{--                                </li>--}}
 
                                 <li><a href="#latest-event"> Contact Us </a></li>
                             </ul>

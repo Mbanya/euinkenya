@@ -49,7 +49,10 @@
                             </div>
                             <div class="feature-info secondery-font wow fadeInRight" data-wow-delay="0.2s">
                                 <a href="#" class="theme-color"> <b> Location </b> </a>
-                                <a href="https://www.google.com/maps/place/Radisson+Blu+Hotel,+Nairobi+Upper+Hill/@-1.3022795,36.7467018,12z/data=!4m8!3m7!1s0x182f10e51817c5bd:0x3a9709be7741fa63!5m2!4m1!1i2!8m2!3d-1.3022805!4d36.8167439"><h5>Radisson Blu Hotel Upper Hill</h5></a>
+                                <a href="https://www.google.com/maps/place/Radisson+Blu+Hotel,+Nairobi+Upper+Hill/@-1.3022795,36.7467018,12z/data=!4m8!3m7!1s0x182f10e51817c5bd:0x3a9709be7741fa63!5m2!4m1!1i2!8m2!3d-1.3022805!4d36.8167439">
+                                    <h5>Radisson Blu Hotel Upper Hill</h5>
+                                </a>
+
                             </div>
                         </div>
                         <div class="col-sm-6 feature-box">
@@ -63,21 +66,51 @@
                                 </h5>
                             </div>
                         </div>
-                        <div class="col-sm-12 feature-box">
+
+                        <div class="col-sm-6 feature-box">
+                            <div class="feature-icon wow zoomIn" data-wow-delay="0.2s">
+                                <i class="fa  fa-hotel  theme-color"></i>
+                            </div>
+                            <div class="feature-info secondery-font wow fadeInRight" data-wow-delay="0.2s">
+                                <a href="#" class="theme-color"> <b> Accommodation </b> </a>
+                                <h5>
+                                    For a discounted rate @ the venue please contact hotel@eu-kenya-businessforum.com
+                                </h5>
+
+                            </div>
+                        </div>
+                        <div class="col-sm-6 feature-box">
                             <div class="feature-icon wow zoomIn" data-wow-delay="0.2s">
                                 <i class="fa fa-newspaper-o theme-color"></i>
                             </div>
                             <div class="feature-info secondery-font wow fadeInRight" data-wow-delay="0.2s">
                                 <a href="#" class="theme-color"> <b> Press enquiries  </b> </a>
                                 <h5>
-                                    beatrice.hongo@eeas.europa.eu
+                                    press@eu-kenya-businessforum.com
                                 </h5>
                             </div>
                         </div>
+
+
+                    </div>
+
+
+                </div>
+                <div class="col-md-12 text-center  space-top-30">
+                    <div class="banner-details relative-div">
+                        <div class="title-wrap">
+                            <h3 class="section-title  wow flipInX" data-wow-delay="1.8s"><span> Press Registration Below</span> </h3>
+                        </div>
+                        <div class="container theme-container">
+                            <a class="theme-btn-big btn wow zoomIn goto-register" data-wow-delay="0.2s" href="#press-register">Register</a>
+
+                        </div>
                     </div>
                 </div>
+
             </div>
         </section>
+
         <!-- / Latest Event Ends -->
 
         <!-- Welcome To Jevent Start -->
@@ -97,17 +130,10 @@
                             <div class="jevent-content">
                                 <a href="#" class="jevent-title-1 wow fadeInDown"  data-wow-delay="0.2s"> About <span class="theme-color"> us </span> </a>
                                 <p class="wow fadeInDown"  data-wow-delay="1.0s">
-                                    The EU-Kenya Business Forum is the first of its kind in Kenya. It is jointly organised by the EU,
-                                    its Member States in partnership with the European Business Council, and the Government of Kenya.
-                                    The two-day High-Level Business Forum to be held in Nairobi, on the 21st and 22nd February 2023
-                                    will gather public officials from the EU and the Kenyan government, investors, business support
-                                    organisations and financial institutions to discuss trade & investment opportunities and challenges in concrete terms.
-                                    In attendance will be amongst others, Kenyan and European policymakers, public sector agencies,
-                                    EU Member States embassies and consulates, private sector trade support institutions, business
-                                    associations and Chambers of Commerce, captains of industries, financial and non-financial
-                                    intermediaries, investors, development partners and donor agencies, academia, and the civil society.
-                                    It will provide participants with an opportunity to network exchange experiences and explore win-win
-                                    investment and trade opportunities.
+                                    The EU is the largest export destination for Kenyan products and its third source of imports. Kenyans ship flowers and agriculture products to Europe and buy a wide range of manufacturing goods from Europeans. However, overall trade value potential between the EU and Kenya is estimated over € 500M more per year than actual trade value.
+                                    Kenya and the EU are key economic partners. EU investment represents more than 30% of Kenya’s total FDI stock and can be expanded. Kenya’s strong growth prospects are supported by an emerging middle class and an increasing appetite for high-value good and services that European firms offer.
+                                    The EU-Kenya Business Forum aims to foster European trade & investment in Kenya by highlighting economic opportunities and potential whilst discussing areas for improvements. The event will promote Kenya as a business destination and identify trade and investment opportunities for job creation and sustainable and diversified growth. In line with its strategic vision, the EU and its Member states as major partners, are committed to support the formulation and implementation of reforms oriented towards a sustainable economic diversification of the Kenyan economy.
+
 
                             </div>
                         </div>
@@ -140,35 +166,27 @@
 {{--                            </div>--}}
 {{--                        </div>--}}
 {{--                    </div>--}}
-{{--                    <div class="col-md-6 col-sm-6 space-bottom-50">--}}
-{{--                        <div class="jevent-wrap">--}}
-{{--                            <div class="jevent-content">--}}
-{{--                                <a href="#" class="jevent-title-1 wow fadeInDown"  data-wow-delay="0.2s"> Event  <span class="theme-color"> Format </span> </a>--}}
-{{--                                <p class="wow fadeInDown"  data-wow-delay="1.0s">--}}
-{{--                                    There will also be a series of workshops & side events to assist you interact with leading trade and business--}}
-{{--                                    associations and Government agencies to get insights on promising sectors for investments, markets for exports--}}
-{{--                                    and hear about business opportunities, government policies and success stories. A dedicated workshop will focus--}}
-{{--                                    on how to export to the EU markets. The Forum provides a platform for networking and deal making.--}}
-{{--                                </p>--}}
-{{--                            </div>--}}
-{{--                        </div>--}}
-{{--                    </div>--}}
                     <div class="col-md-6 col-sm-6 space-bottom-50">
                         <div class="jevent-wrap">
                             <div class="jevent-content">
-                                <a href="#" class="jevent-title-1 wow fadeInDown"  data-wow-delay="0.2s"> WHY<span class="theme-color"> ATTEND? </span> </a>
-
-
-                                    <ul class="wow fadeInDown" data-wow-delay="1.0s" style="margin-left: 1rem;">
-                                    <li>Learn about EU and Kenyan policies and initiatives promoting trade, investment, and business?</li>
-                                    <li>Understand the Kenyan market</li>
-                                    <li>Explore the EU market opportunities and find EU partners</li>
-                                    <li>Explore the Kenyan market opportunities and find Kenyan partners</li>
-                                    <li>Meet key decision-makers, network and build partnerships on the ground through the sector focused high level panel discussions</li>
-                                </ul>
-
-
-
+                                <a href="#" class="jevent-title-1 wow fadeInDown"  data-wow-delay="0.2s"> Event  <span class="theme-color"> Format </span> </a>
+                                <p class="wow fadeInDown"  data-wow-delay="1.0s">
+                                    The EU-Kenya Business Forum will be the first of its kind. It is a deliverable of the EU-Kenya Strategic Dialogue to market Kenya´s trade & investment potential highlighting key successes and opportunities as well as remaining challenges. It will be held in Nairobi in Feb 2023 and includes a platform for direct interaction between companies and between firms and policy makers.
+                                    The Business Forum is jointly organized by the EU and its Member States in partnership with the European Business Council and the Kenya Private Sector Alliance. The event will provide insights into key themes of EU-Kenya business, relations such as circular economy, agriculture, green energy, ICT and other infrastructure. Specific panels will showcase business cases and opportunities.
+                                    The forum will gather representatives from the EU and the Kenyan government, investors, business support organisations and financial institutions to discuss trade and investment opportunities and challenges in concrete terms.
+                                </p>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col-md-12 col-sm-6 space-bottom-50">
+                        <div class="jevent-wrap">
+                            <div class="jevent-content">
+                                <a href="#" class="jevent-title-1 wow fadeInDown"  data-wow-delay="0.2s"> Audience </a>
+                                <p class="wow fadeInDown"  data-wow-delay="1.0s">
+                                    The Forum will gather high-level officials from the EU and the government of Kenya. There will be participation from the political and technical level, including the Directorates General for International Partnerships and for Trade.
+                                    The event is organised in a team Europe spirit including the 27 EU Member States representations and business. From the Kenyan side, officials from key government departments and agencies as well as Business Support Organisations are on board.
+                                    A special role will be given to financing institutions that can help companies in Kenya and Europe. Finally, and above all, firms already established in Kenya and potential exporters and investors are at the core of all activities in the Business Forum
+                                </p>
                             </div>
                         </div>
                     </div>
@@ -177,6 +195,89 @@
             </div>
         </section>
         <!-- / Welcome To Jevent Ends -->
+
+
+
+
+        <!-- Our Speakers Start -->
+        <section id="our-speakers" class="space-50">
+            <div class="our-speakers-bg relative-div space-top-100">
+                <span class="mask-overlay"></span>
+                <div class="container theme-container relative-div">
+                    <div class="title-wrap space-bottom-50">
+                        <h2 class="section-heading white-color wow fadeInDown"  data-wow-delay="0.8s"> Our Speakers </h2>
+                        <p class="title-devider dark wow fadeInUp"  data-wow-delay="0.8s"> <span class="white-line-1 wow fadeInUp"  data-wow-delay="2.0s">  </span> <span class="white-line-2 wow fadeInUp"  data-wow-delay="1.8s">  </span> <span class="white-line-3 wow fadeInUp"  data-wow-delay="1.6s">  </span></p>
+                    </div>
+                    <div class="row">
+                        <div class="col-md-3 col-sm-6 space-bottom-50 speakers-wrap">
+                            <div class="speakers-media wow fadeInDown"  data-wow-delay="0.6s">
+                                <img src="assets/img/speakers/speakers-1.png" alt="">
+                                <div class="social-overlay">
+                                    <ul>
+                                        <li> <a href="#"><span class="fa fa-twitter"></span> </a> </li>
+                                        <li> <a href="#"><span class="fa fa-facebook"></span> </a> </li>
+                                        <li> <a href="#"><span class="fa fa-envelope"></span> </a> </li>
+                                    </ul>
+                                </div>
+                            </div>
+                            <div class="speakers-name secondery-font text-center wow fadeInUp"  data-wow-delay="0.6s">
+                                <a class="name" href="#">Alise Rodrigues</a>
+                                <h6 class="designation  gray-color">manager events</h6>
+                            </div>
+                        </div>
+                        <div class="col-md-3 col-sm-6 space-bottom-50 speakers-wrap">
+                            <div class="speakers-media wow fadeInDown"  data-wow-delay="1.1s">
+                                <img src="assets/img/speakers/speakers-2.png" alt="">
+                                <div class="social-overlay">
+                                    <ul>
+                                        <li> <a href="#"><span class="fa fa-twitter"></span> </a> </li>
+                                        <li> <a href="#"><span class="fa fa-facebook"></span> </a> </li>
+                                        <li> <a href="#"><span class="fa fa-envelope"></span> </a> </li>
+                                    </ul>
+                                </div>
+                            </div>
+                            <div class="speakers-name secondery-font text-center wow fadeInUp"  data-wow-delay="1.1s" >
+                                <a class="name" href="#">Jessica Montenegro</a>
+                                <h6 class="designation  gray-color">Founder</h6>
+                            </div>
+                        </div>
+                        <div class="col-md-3 col-sm-6 space-bottom-50 speakers-wrap">
+                            <div class="speakers-media wow fadeInDown"  data-wow-delay="1.4s">
+                                <img src="assets/img/speakers/speakers-3.png" alt="">
+                                <div class="social-overlay">
+                                    <ul>
+                                        <li> <a href="#"><span class="fa fa-twitter"></span> </a> </li>
+                                        <li> <a href="#"><span class="fa fa-facebook"></span> </a> </li>
+                                        <li> <a href="#"><span class="fa fa-envelope"></span> </a> </li>
+                                    </ul>
+                                </div>
+                            </div>
+                            <div class="speakers-name secondery-font text-center wow fadeInUp"  data-wow-delay="1.4s">
+                                <a class="name" href="#">Monica Sanchez</a>
+                                <h6 class="designation  gray-color">Marketing Expert </h6>
+                            </div>
+                        </div>
+                        <div class="col-md-3 col-sm-6 space-bottom-50 speakers-wrap">
+                            <div class="speakers-media wow fadeInDown"  data-wow-delay="1.7s">
+                                <img src="assets/img/speakers/speakers-4.png" alt="">
+                                <div class="social-overlay">
+                                    <ul>
+                                        <li> <a href="#"><span class="fa fa-twitter"></span> </a> </li>
+                                        <li> <a href="#"><span class="fa fa-facebook"></span> </a> </li>
+                                        <li> <a href="#"><span class="fa fa-envelope"></span> </a> </li>
+                                    </ul>
+                                </div>
+                            </div>
+                            <div class="speakers-name secondery-font text-center wow fadeInUp"  data-wow-delay="1.4s">
+                                <a class="name" href="#">Barbara Jones Junior</a>
+                                <h6 class="designation  gray-color">Marketing Expert</h6>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </section>
+        <!-- / Our Speakers Ends -->
 
 
 
@@ -280,7 +381,7 @@
                                                 <p>
                                                     Registration & networking space
                                                 </p>
-                                                <p class="secondery-font"><span class="black-color">Speakers:</span> <span class="theme-color"> </span> </p>
+
                                             </div>
                                         </div>
                                     </li>
@@ -297,7 +398,7 @@
                                             <p>
                                                 Opening Remarks
                                             </p>
-                                            <p class="secondery-font"><span class="black-color">Speakers:</span> <span class="theme-color"> </span> </p>
+
                                         </div>
                                     </div>
                                 </li>
@@ -317,7 +418,7 @@
 {{--                                                Darren Gillen, Chairman at the European Business Council on TBC--}}
 {{--                                                TBC, CS for trade, industry & investment--}}
                                             </p>
-                                            <p class="secondery-font"><span class="black-color">Speakers:</span> <span class="theme-color">Panel moderated by ... </span> </p>
+
                                         </div>
                                     </div>
                                 </li>
@@ -338,7 +439,7 @@
                                                 tbc on  infrastructure
                                                 Q&As
                                             </p>
-                                            <p class="secondery-font"><span class="black-color">Speakers:</span> <span class="theme-color">Panel moderated by the EU Delegation to Kenya </span> </p>
+{{--                                            <p class="secondery-font"><span class="black-color">Speakers:</span> <span class="theme-color">Panel moderated by the EU Delegation to Kenya </span> </p>--}}
                                         </div>
                                     </div>
                                 </li>
@@ -387,7 +488,7 @@
                                             <p>
                                                 Press Conference
                                             </p>
-                                            <p class="secondery-font"><span class="black-color">Speakers:</span> <span class="theme-color">Panel moderated by tbc </span> </p>
+{{--                                            <p class="secondery-font"><span class="black-color">Speakers:</span> <span class="theme-color">Panel moderated by tbc </span> </p>--}}
                                         </div>
                                     </div>
                                 </li>
@@ -782,14 +883,12 @@
         <!-- / Event Schedule Ends -->
 
 
-
-
-        <!-- Register Start -->
-        <section id="register">
+        <!-- Press Register Start -->
+        <section id="press-register">
             <div class="register-bg">
                 <div class="container theme-container space-100">
                     <div class="title-wrap space-bottom-50">
-                        <h2 class="section-heading white-color wow fadeInDown"  data-wow-delay="0.2s"> Register </h2>
+                        <h2 class="section-heading white-color wow fadeInDown"  data-wow-delay="0.2s"> Press Registration </h2>
                         <p class="title-devider wow fadeInUp"  data-wow-delay="0.2s">
                             <span class="white-line-1 wow fadeInUp"  data-wow-delay="2.0s">  </span>
                             <span class="white-line-2 wow fadeInUp"  data-wow-delay="1.8s">  </span>
@@ -814,6 +913,31 @@
                             <div class="form-group col-sm-3 wow fadeInDown"  data-wow-delay="1.4s">
                                 <label class="sr-only" for="rf_phone">Phone Number</label>
                                 <input type="text" placeholder="Phone Number" name="rf_phone" id="rf_phone" value="" data-toggle="tooltip" title="Phone is required" class="form-control input-phone">
+                            </div>
+
+                            <div class="form-group col-sm-3 wow fadeInDown"  data-wow-delay="1.4s">
+                                <label class="sr-only" for="media_house">Media House</label>
+                                <input type="text" placeholder="Media House " name="media_house" id="media_house" value="" data-toggle="tooltip" title="Media House" class="form-control">
+                            </div>
+
+
+
+                            <div class="form-group col-sm-3 wow fadeInDown"  data-wow-delay="1.4s">
+                                <label class="sr-only" for="passport_photo">Passport Photo</label>
+                                <input type="file" name="passport_photo" placeholder="Passport Photo" id="passport_photo"  class="form-control form-control-file">
+
+                                <p class="text-white" style="color:white;">Passport Photo</p>
+                            </div>
+
+                            <div class="form-group col-sm-3 wow fadeInDown"  data-wow-delay="1.4s">
+                                <label class="sr-only" for="pan">Press Accreditation Number</label>
+                                <input type="text" placeholder="Accreditation Number" name="pan" id="pan" value="" data-toggle="tooltip" title="Accreditation Number" class="form-control">
+                            </div>
+
+                            <div class="form-group col-sm-3 wow fadeInDown"  data-wow-delay="1.4s">
+                                <label class="sr-only" for="id_scan">ID Card Scan</label>
+                                <input type="file" name="id_scan" id="id_scan" placeholder="ID Card Scan"  class="form-control form-control-file">
+                                <p class="text-white" style="color:white;">ID Card Scan</p>
                             </div>
                             <div class="form-group col-sm-offset-3 col-sm-6 button-style">
                                 <label class="theme-btn btn wow zoomIn"  data-wow-delay="0.2s">
