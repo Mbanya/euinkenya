@@ -1031,7 +1031,14 @@
                                 </div>
                                 <div id="requirement-3" class="tab-pane fade" role="tabpanel">
                                     <p class="wow fadeInDown"  data-wow-delay="0.6s">
-                                        <b>COVID Guidelines</b>
+                                        <b>See attached Covid Guidelines</b>
+
+                                    <div class="button-style">
+                                        <a class="theme-btn btn read-more wow zoomIn" download="Kenya Covid Guidelines"  href="{{asset('assets/Covid requirements.pdf')}}">
+                                            Download Covid Guidelines
+                                        </a>
+                                    </div>
+
 
                                     </p>
                                 </div>
