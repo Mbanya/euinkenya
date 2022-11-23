@@ -23,6 +23,9 @@
                                 <li><a href="#jevent">About</a></li>
                                 <li><a href="#our-speakers">Speakers</a></li>
                                 <li><a href="#event-schedule">Programme</a></li>
+                                <li>
+                                    <a href="#travel-requirements">Travel Requirements</a>
+                                </li>
                                 <li><a href="#">Matchmaking</a></li>
 {{--                                <li class="dropdown">--}}
 {{--                                    <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" >Business and Investment </a>--}}

@@ -882,6 +882,187 @@
         </section>
         <!-- / Event Schedule Ends -->
 
+        <!-- Event Travel Requirements Start -->
+        <section id="travel-requirements" class="">
+            <div class="light-bg event-faqs-wrap space-100">
+                <div class="container theme-container">
+                    <div class="title-wrap space-bottom-30">
+                        <h2 class="section-heading wow fadeInDown"  data-wow-delay="0.8s"> Travel    <span class="theme-color"> Requirements </span> </h2>
+                        <p class="title-devider wow fadeInUp"  data-wow-delay="0.8s"> <span class="line-1 wow fadeInUp"  data-wow-delay="2.0s">  </span> <span class="line-2 wow fadeInUp"  data-wow-delay="1.8s">  </span> <span class="line-3 wow fadeInUp"  data-wow-delay="1.6s">  </span></p>
+                    </div>
+                    <div class="row">
+                        <div class="col-md-4 col-sm-5">
+                            <ul class="nav-tabs secondery-font event-faqs-tabs" role="tablist">
+                                <li class="active wow fadeInLeft"  data-wow-delay="0.8s"  role="presentation">
+                                    <a aria-expanded="false" href="#requirement-1" role="tab" data-toggle="tab" >  KENYAN VISA ELIGIBILITY</a>
+                                </li>
+                                <li  role="presentation" class="wow fadeInLeft"  data-wow-delay="1.1s">
+                                    <a aria-expanded="false" href="#requirement-2" role="tab" data-toggle="tab" >  REQUIRED DOCUMENTS </a>
+                                </li>
+                                <li  role="presentation" class="wow fadeInLeft"  data-wow-delay="1.4s">
+                                    <a aria-expanded="false" href="#requirement-3" role="tab" data-toggle="tab" >  COVID GUIDELINES  </a>
+                                </li>
+
+                                <li  role="presentation" class="wow fadeInLeft"  data-wow-delay="1.4s">
+                                    <a aria-expanded="false" href="#requirement-4" role="tab" data-toggle="tab" >  AIRLINE INFORMATION </a>
+                                </li>
+                            </ul>
+                        </div>
+                        <div class="col-md-8 col-sm-7">
+                            <div class="tab-content event-faqs">
+                                <div id="requirement-1" class="tab-pane fade active in" role="tabpanel">
+                                    <p class="wow fadeInDown"  data-wow-delay="0.6s">
+                                        Kenyan Visa Eligibility- Depends on specific nationality of traveler <br>
+                                        Passport holders traveling to the Republic of Kenya are divided into 3 categories.
+                                        <br>
+                                        1.	Category 1 - Nationals and Persons who do not require visas to enter Kenya. Children under 16years in Category 2 fall under this category too. They also don’t need visa.
+                                        <br>
+                                        2.	Category 2 - Nationals issued with Visas on application. <br>
+                                        3.	Category 3 - Countries and Persons who require referred Visas. ( takes 01-02 months to obtain visas)
+                                        <br>
+
+                                    </p>
+                                    <p class="wow fadeInDown"  data-wow-delay="0.8s">
+                                        Kenyan ordinary single entry visa fee is <b>USD 51 paid via Credit Card</b>
+                                        All Category 2 Nationals, which includes EU Citizens - i.e. for those nationals that require visa to
+                                        Kenya and can, apply without reference/ pre-authorization from Kenyan Immigration HQ.
+                                        <br>
+
+                                        Minimum e-visa processing period is 48hrs.
+                                        ( single entry visa valid for travel within 03 months from date of issue) -
+                                        advisable to apply early enough because sometimes it can take longer.For more details
+                                        <strong>
+                                            <a href="https://evisa.go.ke/eligibility.html" target="_blank"> Click Here</a>
+                                        </strong>
+                                        <br>
+
+                                        <p>
+                                            For details on E-visa and application steps
+                                        <strong>
+                                            <a href="https://evisa.go.ke/about-evisa.html" target="_blank">
+                                                Click here
+                                            </a>
+                                        </strong>
+                                        </p>
+
+                                        <br>
+
+                                        Enquiries: <br>
+                                        Email: evisa@immigration.go.ke
+                                        Call: Official Hours.
+                                        +254-110-922-062,
+                                        +254-110-922-063,
+                                        +254-110-922-064.
+                                        or Call: after 5pm & weekends
+                                        +254-112-620-512, +254-112-620-693
+
+
+
+                                    </p>
+                                    <div class="button-style">
+                                        <a class="theme-btn btn read-more wow zoomIn"  data-wow-delay="0.8s" href="http://evisa.go.ke ">Apply for the Kenya evisa</a>
+                                    </div>
+                                </div>
+                                <div id="requirement-2" class="tab-pane fade" role="tabpanel">
+                                    <p class="wow fadeInDown"  data-wow-delay="0.6s">
+                                        <b>Single Entry Visa </b> <br>
+
+
+                                        Issued for single entry to persons whose nationalities require a visa to enter Kenya either for business, tourism, medical or other reasons.
+                                        <br>
+                                        <b>Basic Requirements</b> <br>
+                                        1.	Valid travel document not less than six months. <br>
+                                        2.	A Return ticket <br>
+
+                                       <b>Validity</b>  <br>
+                                        Category 2 Single Entry Visa is valid for travel with 3 months from the date of issue
+                                        <br>
+
+                                        <b>Renewal</b> <br>
+                                        Your stay period may be extended for a further 90 days through fns.immigration.go.ke.
+                                        <br>
+
+                                        <b>Fees</b> <br>
+                                        All evisa applications attract a 1 USD service charge and a card handling fee will be surcharged.
+                                        Card handling fee will be surcharged for Debit cards, Credit cards, VISA Card, Mastercard
+                                        $51 <br>
+
+                                        <b>Attachments</b> <br>
+                                        During the application process, you will be required to attach the following documents.
+                                        The file formats that may be attached are PDF, JPG, or Microsoft word. <br>
+
+                                        <b>For Business Visits</b> <br>
+                                        1.	Invitation Letters from company / Invitation letter for business visits
+                                        <br>
+                                        2.	Copies of registration of the company <br>
+                                        3.	Return air ticket <br>
+                                        For Family visits <br>
+                                        1.	Invitation Letters from family. <br>
+                                        2.	Identity card / Passport / Alien card / Entry permit of the host. <br>
+                                        3.	Return air ticket <br>
+                                        For Tourists <br>
+                                        1.	Travel itinerary (Details about places to visit if going as a tourist). <br>
+                                        2.	Hotel bookings. <br>
+                                        3.	Return air ticket <br>
+
+                                       <b>Identity Documents</b>  <br>
+                                        1.	Clear Passport biodata page. <br>
+                                        2.	A clear photograph. <br>
+
+                                        <b>Photo requirements</b> <br>
+                                        1.	DO NOT take a photograph of or scan the photo in your passport. <br>
+                                        2.	Must be taken within the past 6 months, showing your current appearance. <br>
+                                        3.	Must be in color. <br>
+                                        4.	Must show your full face, front view with a plain white or off-white background. <br>
+                                        5.	Must show a full face, front view with a plain white or off-white background. <br>
+                                        6.	Must be taken in normal street attire. Uniforms should NOT BE worn
+                                        in photographs except religious attire that is worn daily. <br>
+                                        7.	Do not wear a hat or headgear that obscures the hair or hairline. <br>
+                                        8.	If you normally wear prescription glasses, a hearing device, wig, or similar articles,
+                                            they should be worn for your picture. <br>
+                                        9.	Dark glasses or nonprescription glasses with tinted lenses are not acceptable
+                                        unless you need them for medical reasons. A medical certificate may be required. <br>
+
+                                    </p>
+                                    <div class="button-style">
+                                        <a class="theme-btn btn read-more wow zoomIn" target="_blank"  data-wow-delay="0.8s" href="https://evisa.go.ke/single-entry-visa.html">Find out  More</a>
+                                    </div>
+                                </div>
+                                <div id="requirement-3" class="tab-pane fade" role="tabpanel">
+                                    <p class="wow fadeInDown"  data-wow-delay="0.6s">
+                                        <b>COVID Guidelines</b>
+
+                                    </p>
+                                </div>
+
+                                <div id="requirement-4" class="tab-pane fade" role="tabpanel">
+                                    <p class="wow fadeInDown"  data-wow-delay="0.6s">
+                                       <b>KENYA AIRWAYS</b> <br>
+
+                                        KQ 482  22FEB  NAIROBI-DAR ES SALAAM       0740   0905  22FEB <br>
+                                        KQ 486  22FEB  NAIROBI-DAR ES SALAAM       1830   1955  22FEB <br>
+                                        KQ 488  22FEB  NAIROBI-DAR ES SALAAM       2345   0115  23FEB  <br>
+
+                                        <b>PRECISION AIR</b>  <br>
+                                        PW 718  22FEB  NAIROBI-DAR ES SALAAM      0820    1200  22FEB-Via Kilimanjaro &Zanzibar <br>
+
+                                        PW 712  22FEB  NAIROBI-DAR ES SALAAM      1925    2155  22FEB-via Zanzibar <br>
+                                        PW 720  22FEB  NAIROBI-DAR ES SALAAM      2000    2250  22FEB -via Kilimanjaro <br>
+                                        PW 732  22FEB  NAIROBI-DAR ES SALAAM      2110    2300  22FEB <br>
+
+                                        <b>AIR TANZANIA </b><br>
+                                        TC 201  22FEB  NAIROBI-DAR ES SALAAM      0740     0910  22FEB <br>
+                                        TC 203  22FEB  NAIROBI-DAR ES SALAAM      2210     2340  22FEB <br>
+
+                                    </p>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </section>
+        <!-- / Event Travel Requirements Ends -->
 
         <!-- Press Register Start -->
         <section id="press-register">
