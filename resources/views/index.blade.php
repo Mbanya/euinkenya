@@ -921,13 +921,10 @@
                                         3.	Category 3 - Countries and Persons who require referred Visas. ( takes 01-02 months to obtain visas)
                                         <br>
 
-                                    </p>
-                                    <p class="wow fadeInDown"  data-wow-delay="0.8s">
-                                        Kenyan ordinary single entry visa fee is <b>USD 51 paid via Credit Card</b>
+                                        Kenyan ordinary single entry visa fee is <b>USD 51 paid via Credit Card</b> <br>
                                         All Category 2 Nationals, which includes EU Citizens - i.e. for those nationals that require visa to
                                         Kenya and can, apply without reference/ pre-authorization from Kenyan Immigration HQ.
                                         <br>
-
                                         Minimum e-visa processing period is 48hrs.
                                         ( single entry visa valid for travel within 03 months from date of issue) -
                                         advisable to apply early enough because sometimes it can take longer.For more details
@@ -936,14 +933,14 @@
                                         </strong>
                                         <br>
 
-                                        <p>
-                                            For details on E-visa and application steps
+
+                                        For details on E-visa and application steps
                                         <strong>
                                             <a href="https://evisa.go.ke/about-evisa.html" target="_blank">
                                                 Click here
                                             </a>
                                         </strong>
-                                        </p>
+
 
                                         <br>
 
@@ -955,6 +952,10 @@
                                         +254-110-922-064.
                                         or Call: after 5pm & weekends
                                         +254-112-620-512, +254-112-620-693
+
+                                    </p>
+                                    <p class="wow fadeInDown"  data-wow-delay="0.8s">
+
 
 
 
