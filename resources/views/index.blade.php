@@ -912,22 +912,22 @@
                             <div class="tab-content event-faqs">
                                 <div id="requirement-1" class="tab-pane fade active in" role="tabpanel">
                                     <p class="wow fadeInDown"  data-wow-delay="0.6s">
-                                        Kenyan Visa Eligibility- Depends on specific nationality of traveler <br>
-                                        Passport holders traveling to the Republic of Kenya are divided into 3 categories.
+                                        Kenyan Visa Eligibility Depends on specific nationality of the traveller <br>
+                                        Passport holders travelling to the Republic of Kenya are divided into 3 categories:
                                         <br>
-                                        1.	Category 1 - Nationals and Persons who do not require visas to enter Kenya. Children under 16years in Category 2 fall under this category too. They also don’t need visa.
+                                        1.	Category 1 - Nationals and Persons who do not require visas to enter Kenya. Children under 16years in Category 2 fall under this category too. They also don’t need a visa.
                                         <br>
                                         2.	Category 2 - Nationals issued with Visas on application. <br>
-                                        3.	Category 3 - Countries and Persons who require referred Visas. ( takes 01-02 months to obtain visas)
+                                        3.	Category 3 - Countries and Persons who require referred Visas. (takes 1 to 2 months to obtain)
                                         <br>
 
-                                        Kenyan ordinary single entry visa fee is <b>USD 51 paid via Credit Card</b> <br>
-                                        All Category 2 Nationals, which includes EU Citizens - i.e. for those nationals that require visa to
-                                        Kenya and can, apply without reference/ pre-authorization from Kenyan Immigration HQ.
+                                        A Kenyan ordinary single entry visa fee is <b>USD 51 paid via Credit Card</b> <br>
+                                        All Category 2 Nationals, which includes EU Citizens - i.e. for those nationals that require a visa to
+                                        Kenya, they can apply without reference or pre-authorization from the Kenyan Immigration HQ or online through evisa.
                                         <br>
-                                        Minimum e-visa processing period is 48hrs.
-                                        ( single entry visa valid for travel within 03 months from date of issue) -
-                                        advisable to apply early enough because sometimes it can take longer.For more details
+                                        The processing period is 48hrs.
+                                        ( single entry visa valid for travel within 3 months from date of issue) -
+                                        advisable to apply early enough because sometimes it can take longer. For more details
                                         <strong>
                                             <a href="https://evisa.go.ke/eligibility.html" target="_blank"> Click Here</a>
                                         </strong>
