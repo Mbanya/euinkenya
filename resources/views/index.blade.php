@@ -945,7 +945,7 @@
                                         <br>
 
                                         Enquiries: <br>
-                                        Email: evisa@immigration.go.ke
+                                        Email: <a href="mailto:evisa@immigration.go.ke">evisa@immigration.go.ke</a>
                                         Call: Official Hours.
                                         +254-110-922-062,
                                         +254-110-922-063,
